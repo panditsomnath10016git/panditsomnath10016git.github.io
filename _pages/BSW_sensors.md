@@ -1,5 +1,17 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `BSW_sensing.jpeg` and put it in the `img/` folder.
+Photonic crystal is periodic arrangement of dielectric materials to control the flow of light,
+it shows photonic bandgap much like electronic bandgap in atomic crystals. By properly engi-
+neering the PhC we can create and control certain optical modes, which are extremely sensitive
+to different ambient conditions, showing its potential as ultra-sensitive sensors. My research
+is oriented towards photonic devices in general but focused on sensors, explicitly starting
+with photonic crystal Bloch surface wave (BSW) sensors under the guidance of Dr. Shivakiran
+Bhaktha, Phys. dept. and Prof. Prasanta Kumar Guha, Electronics and Electrical Commu-
+nication Engg. dept., IIT Kharagpur.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Furthermore, I am interested in studying the behaviour of different modes of PhC (i.e. BSW,
+cavity, band-edge) when 2D materials are incorporated. With a viable practical device, compact
+integration and commercialization are also being looked forward to.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+There is a growing need for mobile, cost-effective, sensing applications mainly in health care,
+agriculture, and food quality control. But most of the existing methods have drawbacks limiting
+their on-field deployment with the required sensitivity. PhC platform will address this need for
+compact, extremely sensitive, non-invasive, label-free, stable, robust sensors.
