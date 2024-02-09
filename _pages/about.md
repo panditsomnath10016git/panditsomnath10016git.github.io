@@ -25,4 +25,4 @@ Welcome to my page. I am currently doing research in the field of `optics and ph
 More than being fascinated by the underlying laws of the universe and the challenge of understanding it, the history of science and how it has shaped human civilization overwhelms me.
 I got attracted to the field of photonics during my higher studies for its potential to handle the exponential demand for computing power, its promise of new-age sensing technologies, and its opportunity to test the theories of physics itself.
 
-My current work is on development of ultrasensitive sensors based on [photonic-crystal](https://doi.org/10.1103/PhysRevLett.58.2059) platform mainly for healthcare, agricultural, environmental applications.
+My current work is on development of ultrasensitive sensors based on [photonic-crystal](https://rdcu.be/dyd5S) platform mainly for healthcare, agricultural, environmental applications.
