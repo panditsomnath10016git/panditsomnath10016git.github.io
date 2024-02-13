@@ -1,17 +1,28 @@
 ---
-layout: page
+layout: profiles
 permalink: /teaching/
 title: Teaching
 description: My teaching experience.
 nav: true
 nav_order: 6
+
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: teaching_BNR_school.jpg
+    content: teaching_BNR_school.md
+    more_info: 
+    image_circular: false # crops the image to make it circular
+    caption: 
+  - align: left
+    image: FOSSEE_animations_logo.jpg
+    content: teaching_FOSSEE.md
+    image_circular: false # crops the image to make it circular
+    caption: 
+  - align: right
+    image: ramakrishna_mission_logo.jpg
+    content: teaching_rkm.md
+    image_circular: false # crops the image to make it circular
+    caption: 
 ---
-
-----
-From January 2024, I joined as a physics tutor to higher secondary students in BNR Excellence Academy, Gole Bazar Kharagpur-721301. This knowledge sharing is one of the deliverables as a Prime Minister's Research Fellow.
-
-----
-Before joining M.Sc., I worked as a FOSSEE summer fellow for two months under IIT Bombay. During this period I worked on creating illustrative [notes](https://math.animations.fossee.in/contents/calculus-of-several-variables) to aid students with Integrals of Multivariable Functions.
-
-----
-During my B.Sc. I have provided teaching services to students in my locality as a social service directed by Ramakrishna Mission. I continue to teach them whenever I am available. 
