@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Prime Minister's Resesearch Fellow,</p>
-    <p>Photonic Sensors,</p>
-    <p>Kharagpur,</p>
+    <p>Photonic Systems Lab,</p>
+    <p>IIT Kharagpur,</p>
     <p>India - 721302</p>
 
 news: false #true  # includes a list of news items
