@@ -20,7 +20,7 @@ selected_papers: false #true # includes a list of papers marked as "selected={tr
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my page. I am currently doing research in the field of optics and photonics as a Prime Minister's Research Fellow in the School of Nanoscience and Technology at IIT Kharagpur. 
+Welcome to my page. I am currently doing research in the field of `optics and photonics` as a Prime Minister's Research Fellow in the School of Nanoscience and Technology at IIT Kharagpur. 
 
 More than being fascinated by the underlying laws of the universe and the challenge of understanding it, the history of science and how it has shaped human civilization overwhelms me.
 I got attracted to the field of photonics during my higher studies for its potential to handle the exponential demand for computing power, its promise of new-age sensing technologies, and its opportunity to test the theories of physics itself.
