@@ -16,12 +16,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     caption: 
   - align: left
-    image: FOSSEE_animations_logo.jpg
+    image: FOSSEE_animations_logo.png
     content: teaching_FOSSEE.md
     image_circular: false # crops the image to make it circular
     caption: 
   - align: right
-    image: ramakrishna_mission_logo.jpg
+    image: ramakrishna_mission_logo.png
     content: teaching_rkm.md
     image_circular: false # crops the image to make it circular
     caption: 
