@@ -16,7 +16,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     caption: 
   - align: left
-    image: FOSSEE_animations_logo.png
+    image: FOSSEE_logo.png
     content: teaching_FOSSEE.md
     image_circular: false # crops the image to make it circular
     caption: 
