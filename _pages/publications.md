@@ -15,7 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography -f papers -q @*[type=article]* %}
-{% bibliography -f papers -q @*[type=inproceedings]* %}
+{% bibliography -f papers --group_by type %}
 
 </div>
