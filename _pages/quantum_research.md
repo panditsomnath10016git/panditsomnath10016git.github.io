@@ -1,0 +1,1 @@
+I also have interest in quantum optics and photonic quantum devices though I have only explored literatures in this direction. I have taken courses on Atomic, molecular and quantum physics, nonlinear optics, quantum optics.

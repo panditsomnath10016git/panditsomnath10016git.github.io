@@ -61,7 +61,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 800px
+max_width: 913px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -298,6 +298,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
+  #details_layout: bibtex.html
   details_link: Details
 
   query: "@*"

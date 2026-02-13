@@ -1,0 +1,1 @@
+Before joining M.Sc., I worked as a FOSSEE summer fellow for two months under IIT Bombay. During this period I worked on creating illustrative [notes](https://math.animations.fossee.in/contents/calculus-of-several-variables) to aid students with Integrals of Multivariable Functions.
