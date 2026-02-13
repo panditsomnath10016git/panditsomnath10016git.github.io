@@ -24,6 +24,72 @@ layout: page
 
   {{ content }}
 
+  {% if page.topics %}
+    <h2>Topics</h2>
+    <table class="table table-sm table-responsive">
+      <thead>
+        <tr>
+          <th>Week</th>
+          <th>Topic</th>
+          <th>References</th>
+          <th>Materials</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for entry in page.topics %}
+          <tr>
+            <td>{{ entry.week }}</td>
+            <td>
+              {% if entry.topic %}
+                <strong>{{ entry.topic }}</strong>
+              {% endif %}
+              {% if entry.description %}
+                <div class="schedule-description">{{ entry.description | markdownify }}</div>
+              {% endif %}
+            </td>
+            <td>
+              {% if entry.references %}
+                <ul class="schedule-references">
+                  {% for reference in entry.references %}
+                    <li>
+                      {% if reference.url %}
+                        {% if reference.url contains '://' %}
+                          <a href="{{ reference.url }}" target="_blank">{{ reference.name }}</a>
+                        {% else %}
+                          <a href="{{ reference.url | relative_url }}" target="_blank">{{ reference.name }}</a>
+                        {% endif %}
+                      {% else %}
+                        {{ reference.name }}
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </td>
+            <td>
+              {% if entry.materials %}
+                <ul class="schedule-materials">
+                  {% for material in entry.materials %}
+                    <li>
+                      {% if material.url %}
+                        {% if material.url contains '://' %}
+                          <a href="{{ material.url }}" target="_blank">{{ material.name }}</a>
+                        {% else %}
+                          <a href="{{ material.url | relative_url }}" target="_blank">{{ material.name }}</a>
+                        {% endif %}
+                      {% else %}
+                        {{ material.name }}
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
   {% if page.schedule %}
     <h2>Schedule</h2>
     <table class="table table-sm table-responsive">

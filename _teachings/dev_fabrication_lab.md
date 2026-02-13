@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Introduction to Machine Learning
+title: Device Fabrication Lab
 description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. Example
-year: 2023
-term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
+instructor: Prof. Prasanta Kumar Guha
+year: 2024 - present
+term: Spring, Autumn  
+location: VLSI LAB, Electrical and Communication Engg. Dept., IIT Kharagpur 
+time: Thursdays and Fridays, 14:00-17:00 PM
+course_id: dev_fab
 schedule:
   - week: 1
     date: Sept 5
@@ -84,6 +84,7 @@ schedule:
       - name: Coding Lab
         url: https://github.com/
 ---
+<hr>
 
 ## Course Overview
 
@@ -100,14 +101,14 @@ This introductory course on machine learning covers fundamental concepts and alg
 - Programming experience in Python
 - Probability and statistics fundamentals
 
-## Textbooks
+## Resources
 
 - Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
 - Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop
 
-## Grading
+<!-- ## Grading
 
 - Assignments: 40%
 - Midterm Exam: 20%
 - Final Project: 30%
-- Participation: 10%
+- Participation: 10% -->
