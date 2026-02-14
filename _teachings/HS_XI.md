@@ -1,17 +1,17 @@
 ---
 layout: course
 title: Physics | Class XI 
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
+description: 
 instructor: 
 year: 2024 - present
 # term: Fall
 location: BNR Excellence Academy, Gole Bazar, Kharagpur, India 
 # time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: physics_hs
+course_id: physics_xi
 topics:
   - week: 1
     topic: Course Introduction
-    description: Overview of machine learning, course structure, and expectations.
+    description: Overview of chapters and the way forward.
     materials:
       - name: Syllabus
         url: /assets/pdf/example_pdf.pdf
@@ -20,13 +20,15 @@ topics:
     references:
       - name: youtube
         url: /assets/pdf/example_pdf.pdf
-
 ---
 <hr>
 
 ## Course Overview
+<p class="location">
+  <i class="fa-solid fa-truck iconlocation"></i>
+</p>
 
-This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+<!-- This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
 
 - Understand key machine learning paradigms and concepts
 - Implement basic machine learning algorithms
@@ -44,9 +46,9 @@ This introductory course on machine learning covers fundamental concepts and alg
 - Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
 - Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop
 
-<!-- ## Grading
+ ## Grading
 
 - Assignments: 40%
 - Midterm Exam: 20%
 - Final Project: 30%
-- Participation: 10% -->
+- Participation: 10%  -->
