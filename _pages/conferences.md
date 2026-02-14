@@ -9,6 +9,6 @@ nav_order: 3
 <!-- _pages/conference.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.conferences }} %}
+{% bibliography -f conferences %}
 
 </div>
