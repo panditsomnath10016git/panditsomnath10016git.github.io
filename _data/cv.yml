@@ -172,22 +172,38 @@ cv:
       - name: Research
         # level: 
         icon: fa-solid fa-hashtag      
-        keywords: Photonic crystal fabrication, waveguide characterization, UV-photolithography, Laser writing, spectrometer, picosecond and nanosecond laser, spatial light modulator, dip coater, spin coater, 3D printer, high temperature furnace, plasma cleaner, ultrasonicator
-      
-      - name: Physics
-        # level: 
-        icon: fa-solid fa-hashtag      
         keywords: 
+          - Photonic crystal fabrication
+          - waveguide characterization
+          - UV-photolithography
+          - Laser writing
+          - spectrometer
+          - picosecond and nanosecond laser
+          - spatial light modulator
+          - dip coater
+          - spin coater
+          - 3D printer
+          - high temperature furnace
+          - plasma cleaner
+          - ultrasonicator
+      
+      # - name: Physics
+      #   # level: 
+      #   icon: fa-solid fa-hashtag      
+      #   keywords: 
+      #     - Optics
+      #     - Photonic crystal
+      #     - Plasmons
       
       - name: Techincal
         level: 
         icon: fa-solid fa-hashtag
         keywords: 
+          - Ansys Lumeical
           - Python
           - MATLAB
           - GNU Octave
           - SolidWorks
-          - Ansys Lumeical
           - Git
           - $\LaTeX$
           - Linux
@@ -222,11 +238,11 @@ cv:
           - Photonic quantum systems
           - quantum information processing
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
 
     # Projects:
