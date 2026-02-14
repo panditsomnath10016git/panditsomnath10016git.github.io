@@ -1,46 +1,84 @@
 /*******************************************************************************
- * Variables used throughout the theme.
- * To adjust anything, simply edit the variables below and rebuild the theme.
+ * Photonic Eudaimonia — Deep Spectrum Theme (Refined Light Accent)
+ * Calm, precise, research-forward
  ******************************************************************************/
 
 @use "sass:color";
 
-// Colors
-$red-color: #ff3636 !default;
+// Core Accent Colors
+$red-color: #ff4d4f !default; // reserved (alerts)
 $red-color-dark: #b71c1c !default;
-$orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
-$cyan-color: #2698ba !default;
-$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
-$green-color: #00ab37 !default;
+
+$orange-color: #f5a623 !default; // warnings / highlights
+
+
+/* -----------------------------------------------------------------------------
+   Primary Photon Accent (Deeper, more grounded for light contrast)
+----------------------------------------------------------------------------- */
+
+$blue-color: #007acb !default;        // deeper spectral blue
+$blue-color-dark: #005fa3 !default;
+
+$cyan-color: #008fd1 !default;
+$light-cyan-color: color.adjust($cyan-color, $lightness: 15%);
+
+
+/* -----------------------------------------------------------------------------
+   Secondary (subtle spectrum edge, slightly muted)
+----------------------------------------------------------------------------- */
+
+$purple-color: #5a54d6 !default;
+$light-purple-color: color.adjust($purple-color, $lightness: 15%);
+
+
+/* -----------------------------------------------------------------------------
+   Greens (success states — softened for harmony)
+----------------------------------------------------------------------------- */
+
+$green-color: #10b981 !default;
+$green-color-dark: #0e8f63 !default;
+$green-color-light: #e6fff5 !default;
+$green-color-bright: #00e6b8 !default;
 $green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
-$green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
-$light-purple-color: color.adjust($purple-color, $lightness: 25%);
+
 $pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
-$yellow-color: #efcc00 !default;
+$pink-color-light: #ffe3f0 !default;
 
-$grey-color: #828282 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #1c1c1d;
-$grey-900: #212529;
+$yellow-color: #ffd84d !default;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
 
-// Theme colors
+/* -----------------------------------------------------------------------------
+   Neutral Palette (Deep Navy Base)
+----------------------------------------------------------------------------- */
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$grey-color: #8a99a6 !default;
+$grey-color-light: #c5d1dc !default;
+$grey-color-dark: #0b1c2d !default; // deep navy background
+$grey-900: #111a23 !default;
 
-// Font awesome location
+$white-color: #e6edf3 !default; // soft off-white text
+$black-color: #05080c !default;
+
+
+/* -----------------------------------------------------------------------------
+   Code Blocks (slightly stronger optical distinction)
+----------------------------------------------------------------------------- */
+
+$code-bg-color-light: rgba($blue-color, 0.08);
+$code-bg-color-dark: #0f1720 !default;
+
+
+/* -----------------------------------------------------------------------------
+   Font Awesome
+----------------------------------------------------------------------------- */
+
 $fa-font-path: "../webfonts";
 
-// Back To Top button config
+
+/* -----------------------------------------------------------------------------
+   Back To Top Button
+----------------------------------------------------------------------------- */
+
 $back-to-top-z-index: 10;
 $back-to-top-bottom: 30px;
 $back-to-top-right: 30px;
@@ -48,5 +86,227 @@ $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
-// Max width default
-$max-content-width: 930px !default;
+
+/* -----------------------------------------------------------------------------
+   Content Width (optimized for long-form technical writing)
+----------------------------------------------------------------------------- */
+
+$max-content-width: 820px !default;
+
+
+// /*******************************************************************************
+//  * Photonic Eudaimonia — Monochrome + Photon Accent
+//  * Subtle, reflective, minimal
+//  ******************************************************************************/
+
+// @use "sass:color";
+
+// // -----------------------------------------------------------------------------
+// // Accent (Single Photon)
+// // -----------------------------------------------------------------------------
+
+// $blue-color: #00aeef !default; // Photon Accent (primary interactive color)
+// $blue-color-dark: #008ec4 !default;
+
+// $cyan-color: $blue-color !default;
+// $light-cyan-color: color.adjust($cyan-color, $lightness: 15%);
+
+// // Keep other semantic colors muted and neutral
+// $red-color: #ff5c5c !default;
+// $red-color-dark: #c0392b !default;
+
+// $orange-color: #f5a623 !default;
+// $yellow-color: #ffd84d !default;
+
+// $green-color: #3ddc97 !default;
+// $green-color-dark: #2bbf80 !default;
+// $green-color-light: #1b2a24 !default;
+// $green-color-bright: #4cffc3 !default;
+// $green-color-lime: #b7d12a !default;
+
+// $purple-color: #7a7f87 !default; // neutralized
+// $light-purple-color: color.adjust($purple-color, $lightness: 20%);
+
+// $pink-color: #9aa3ad !default;
+// $pink-color-light: #2a2f36 !default;
+
+// // -----------------------------------------------------------------------------
+// // Neutral Monochrome Base
+// // -----------------------------------------------------------------------------
+
+// $grey-color: #a0a7b0 !default;
+// $grey-color-light: #2a3038 !default;
+// $grey-color-dark: #111418 !default; // Main background (near black)
+// $grey-900: #0c0f13 !default;
+
+// $white-color: #dce1e8 !default; // Primary text (soft light gray)
+// $black-color: #050608 !default;
+
+// // -----------------------------------------------------------------------------
+// // Code Blocks
+// // -----------------------------------------------------------------------------
+
+// $code-bg-color-light: #1a2027 !default;  // subtle separation
+// $code-bg-color-dark: #0f141a !default;
+
+// // -----------------------------------------------------------------------------
+// // Font awesome location
+// // -----------------------------------------------------------------------------
+
+// $fa-font-path: "../webfonts";
+
+// // -----------------------------------------------------------------------------
+// // Back To Top button config
+// // -----------------------------------------------------------------------------
+
+// $back-to-top-z-index: 10;
+// $back-to-top-bottom: 30px;
+// $back-to-top-right: 30px;
+// $back-to-top-diameter: 40px;
+// $back-to-top-height: $back-to-top-diameter;
+// $back-to-top-width: $back-to-top-diameter;
+
+// // -----------------------------------------------------------------------------
+// // Content Width (optimized for long-form reading)
+// // -----------------------------------------------------------------------------
+
+// $max-content-width: 820px !default;
+
+
+// /*******************************************************************************
+//  * Photonic Eudaimonia — Luminous Minimal
+//  * Clean, knowledge-first, high readability
+//  ******************************************************************************/
+
+// @use "sass:color";
+
+// // -----------------------------------------------------------------------------
+// // Primary Accent (Laser Blue)
+// // -----------------------------------------------------------------------------
+
+// $blue-color: #1e88e5 !default;        // Main accent (links, buttons)
+// $blue-color-dark: #1565c0 !default;
+
+// $cyan-color: $blue-color !default;
+// $light-cyan-color: color.adjust($cyan-color, $lightness: 15%);
+
+// // -----------------------------------------------------------------------------
+// // Secondary Accent (Muted Gold — subtle illumination cue)
+// // -----------------------------------------------------------------------------
+
+// $yellow-color: #c9a227 !default;
+// $orange-color: #e0a800 !default;
+
+// // -----------------------------------------------------------------------------
+// // Semantic Colors (soft, restrained)
+// // -----------------------------------------------------------------------------
+
+// $red-color: #d64545 !default;
+// $red-color-dark: #a62828 !default;
+
+// $green-color: #2eaf6d !default;
+// $green-color-dark: #1f8f56 !default;
+// $green-color-light: #e9f7f1 !default;
+// $green-color-bright: #35c47c !default;
+// $green-color-lime: #b7d12a !default;
+
+// $purple-color: #6a7fb3 !default;  // softened for minimal theme
+// $light-purple-color: color.adjust($purple-color, $lightness: 20%);
+
+// $pink-color: #e07aa3 !default;
+// $pink-color-light: #fde8f1 !default;
+
+// // -----------------------------------------------------------------------------
+// // Neutral Base (Clean & Academic)
+// // -----------------------------------------------------------------------------
+
+// $grey-color: #6c757d !default;
+// $grey-color-light: #eef2f7 !default;  // subtle code/box background
+// $grey-color-dark: #1c1f26 !default;   // primary text color
+// $grey-900: #2b2f36 !default;
+
+// $white-color: #f7f9fc !default;       // main background
+// $black-color: #111111 !default;
+
+// // -----------------------------------------------------------------------------
+// // Code Blocks (gentle separation, not heavy)
+// // -----------------------------------------------------------------------------
+
+// $code-bg-color-light: #eef2f7 !default;
+// $code-bg-color-dark: #e3e8ef !default;
+
+// // -----------------------------------------------------------------------------
+// // Font awesome location
+// // -----------------------------------------------------------------------------
+
+// $fa-font-path: "../webfonts";
+
+// // -----------------------------------------------------------------------------
+// // Back To Top button config
+// // -----------------------------------------------------------------------------
+
+// $back-to-top-z-index: 10;
+// $back-to-top-bottom: 30px;
+// $back-to-top-right: 30px;
+// $back-to-top-diameter: 40px;
+// $back-to-top-height: $back-to-top-diameter;
+// $back-to-top-width: $back-to-top-diameter;
+
+// // -----------------------------------------------------------------------------
+// // Content Width (optimized for long-form clarity)
+// // -----------------------------------------------------------------------------
+
+// $max-content-width: 860px !default;
+
+// /*******************************************************************************
+//  * Variables used throughout the theme.
+//  * To adjust anything, simply edit the variables below and rebuild the theme.
+//  ******************************************************************************/
+
+// @use "sass:color";
+
+// // Colors
+// $red-color: #ff3636 !default;
+// $red-color-dark: #b71c1c !default;
+// $orange-color: #f29105 !default;
+// $blue-color: #0076df !default;
+// $blue-color-dark: #00369f !default;
+// $cyan-color: #2698ba !default;
+// $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+// $green-color: #00ab37 !default;
+// $green-color-lime: #b7d12a !default;
+// $green-color-dark: #009f06 !default;
+// $green-color-light: #ddffdd !default;
+// $green-color-bright: #11d68b !default;
+// $purple-color: #b509ac !default;
+// $light-purple-color: color.adjust($purple-color, $lightness: 25%);
+// $pink-color: #f92080 !default;
+// $pink-color-light: #ffdddd !default;
+// $yellow-color: #efcc00 !default;
+
+// $grey-color: #828282 !default;
+// $grey-color-light: color.adjust($grey-color, $lightness: 40%);
+// $grey-color-dark: #1c1c1d;
+// $grey-900: #212529;
+
+// $white-color: #ffffff !default;
+// $black-color: #000000 !default;
+
+// // Theme colors
+
+// $code-bg-color-light: rgba($purple-color, 0.05);
+// $code-bg-color-dark: #2c3237 !default;
+
+// // Font awesome location
+// $fa-font-path: "../webfonts";
+
+// // Back To Top button config
+// $back-to-top-z-index: 10;
+// $back-to-top-bottom: 30px;
+// $back-to-top-right: 30px;
+// $back-to-top-diameter: 40px;
+// $back-to-top-height: $back-to-top-diameter;
+// $back-to-top-width: $back-to-top-diameter;
+
+// // Max width default
+// $max-content-width: 930px !default;
