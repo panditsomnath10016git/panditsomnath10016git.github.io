@@ -1,1 +1,0 @@
-From January 2024, I joined as a physics tutor to higher secondary students in BNR Excellence Academy, Gole Bazar Kharagpur-721301. This knowledge sharing is one of the deliverables as a Prime Minister's Research Fellow.

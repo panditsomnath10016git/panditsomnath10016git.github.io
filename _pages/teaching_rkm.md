@@ -1,1 +1,0 @@
-During my B.Sc. I have provided teaching services to students in my locality as a social service directed by Ramakrishna Mission. I continue to teach them whenever I am available. 
