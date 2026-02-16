@@ -7,6 +7,22 @@ tags: tour rahjasthan friends jaipur udaipur chittorgarh jaisalmer jodhpur
 categories: tour
 thumbnail: assets/img/rajasthan_tour/4_with_camel_2.jpg
 ---
+<!-- After the train of PhD gained speed we (Aditya, Debkanta, Richeek and me) realized that time was contracting instead of dilating opposing the Einstein's relativity. In a shock we planned to deboard and test the theory on a plane. After several arguments over where the plane should land and iterating through Ladakh, Kashmir, south India a meteor of Rajasthan struck our dried heart and mind. The impact was so strong it propagated to Gemini, ChatGPT and other knights to do a hard work for a plan - how to boar water out of the dessert lands of Rajasthan in a week. They all agreed on the point that we have to accompany a whirlwind. 
+
+Immediately the plan was forged and agents were informed throgh AirBNB and g-Maps of our upcoming presence in the region and prepare for it.
+
+>> ChatGPT 's touch below
+-->
+
+Once the train of the PhD gathered momentum, we—Aditya, Debkanta, Richeek, and I—began to feel a curious reversal of physics. Time, instead of stretching as Albert Einstein would have us believe, seemed to shrink upon itself. Days collapsed into instants and weeks flashed like streaks of light. We felt less like travelers than photons: propelled, unpausing, cutting through moments. 
+In the corner of the room, the debate on relativity sat quietly, almost wounded—its grand equations unable to console our lived compression of time.
+Startled by this quiet rebellion against relativity, we imagined stepping off that iron caravan and testing our theorem in the sky instead. A plane, we thought, might grant us altitude enough to measure time anew. But before takeoff, debate became our runway. We circled possibilities—Ladakh’s austere heights, Kashmir’s mirrored valleys, the peninsular warmth of the south—each destination a different hypothesis of escape.
+
+Then Rajasthan arrived not as a choice, but as a meteor. Its arid vastness struck our drought-stricken hearts and minds. In that blazing aftermath, the question of time—once so urgent—fell silent. The impact sent waves far beyond us, summoning Gemini, ChatGPT, and other tireless knights to a single, more elemental question crystallized from the dust: how might we draw water from the desert within a week? 
+On that, we found rare unanimity. To answer it, we would have to move not like passengers, nor even like pilots, but like a whirlwind itself—entering the desert not to endure it, but to change its course. Chronology surrendered to survival; relativity bowed before thirst.
+
+Immediately the plan was forged and quiet signals traveled through Airbnb and Google Maps, informing distant hosts and coordinates of our impending arrival. Routes traced, shelters secured. In this quiet orchestration, even the desert seemed forewarned—awaiting not merely our arrival, but our attempt to coax water from its silence and restore something long-dry within ourselves.
+
 
 ### Day 1 : 19-07-2025 (satarday)
 
@@ -114,3 +130,11 @@ Day ended with Nahargarh fort suset view of the city.
 ### Day 7 : 25-07-2025 (satarday)
 
 ### Day 8 : 26-07-2025 (sunday)
+
+<hr>
+<ul class="p-0 m-0">
+    <i class="fa-solid fa-tag fa-sm"></i> <a href="https://drive.google.com/file/d/1nucWVysRHpNtgBDPcS_u53xVefvgMnjU/view?usp=sharing"> Places planned to visit </a>
+</ul>
+<ul class="p-0 m-0">
+    <i class="fa-solid fa-tag fa-sm"></i> <a href="https://drive.google.com/file/d/1Og6J-ZAQTvfQL5ygRBVQ5ABlCynEwUEK/view?usp=sharing"> Travel plan </a>
+</ul>
