@@ -24,7 +24,7 @@ On that, we found rare unanimity. To answer it, we would have to move not like p
 Immediately the plan was forged and quiet signals traveled through Airbnb and Google Maps, informing distant hosts and coordinates of our impending arrival. Routes traced, shelters secured. In this quiet orchestration, even the desert seemed forewarned—awaiting not merely our arrival, but our attempt to coax water from its silence and restore something long-dry within ourselves.
 
 
-### Day 1 : 19-07-2025 (satarday)
+### Day 1 : 19-07-2025 (saturday)
 
 Early morning flight from Kolkata to Jaipur 
 
@@ -92,7 +92,7 @@ Day ended with Nahargarh fort suset view of the city.
 
 
 ### Day 2 : 20-07-2025 (sunday)
-
+jaipur..
 <div class="row mt-3">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -116,10 +116,87 @@ Day ended with Nahargarh fort suset view of the city.
     </div>
 </div>
 <div class="caption">
-    Albert Hall, Jantar Mantar ..
+    Albert Hall, Hawa Mahal, Jantar Mantar ..
 </div>
 
+22:40, 19665 / KURJ UDZ EXP, night express train operating between Khajuraho (KURJ) and Udaipur City (UDZ), will take us to our next destination Chittaurgarh (COR) from Jaipur(JP) station.  
+
 ### Day 3 : 21-07-2025 (monday)
+4.10 AM at dawn; Deboarded train at COR. With sleepy eyes, and a sip of tea, nature's call forced Debkanta? and Aditya? to the medival age toilets. Each one of them came back like a prancing colt one after other while the two of us (me and Richeek?) are sill sturggling to open our eyes. The reason of their sudden awakening of consciousness was well explained with smallest details over another round of tea while the car was on its way to us.
+
+
+<div class="row mt-3">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Suraj pole and way to the village downhill.
+</div>
+
+
+Vijay stambh, Kali mata temple, Meera temple, kirti stambh, gau mukh kund, maha sati, padmini palace... 
+<div class="row mt-3">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+
+Rana kumbha's palace, Fateh prakash palace ...
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_15.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_16.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_17.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Down from fort; roadside lunch and journey to Udaipur by same car ..
+
+<!-- 
+<div class="spotlight-group">
+    <a class="spotlight" href="{{ '/assets/img/4.jpg' | relative_url }}">
+        <img src="{{ '/assets/img/4.jpg' | relative_url }}">
+    </a>
+    <a class="spotlight" href="{{ '/assets/img/4.jpg' | relative_url }}">
+        <img src="{{ '/assets/img/4.jpg' | relative_url }}">
+    </a>
+</div> -->
+<!-- <div class="spotlight-group">
+    <a class="spotlight" href="/_site/assets/img/rajasthan_tour/d3_1-1400.webp">
+        <img src="/_site/assets/img/rajasthan_tour/d3_1-480.webp"/>
+    </a>
+</div> -->
+
+
 
 ### Day 4 : 22-07-2025 (tuesday)
 
@@ -127,7 +204,7 @@ Day ended with Nahargarh fort suset view of the city.
 
 ### Day 6 : 24-07-2025 (thursday)
 
-### Day 7 : 25-07-2025 (satarday)
+### Day 7 : 25-07-2025 (saturday)
 
 ### Day 8 : 26-07-2025 (sunday)
 
