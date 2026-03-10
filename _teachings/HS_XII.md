@@ -13,43 +13,37 @@ topics:
     topic: Course Introduction
     description: Recap of class XI, overview of course structure, and expectations.
     materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+      # - name: Syllabus
+        # url: /notes/classXII/syllabus.md
+      # - name: Notes
+        # url: /assets/notes/class_XII/week1.md
     references:
-      - name: youtube
-        url: /assets/pdf/example_pdf.pdf
+      # - name: youtube
+        # url: /assets/pdf/example_pdf.pdf
 ---
 <hr>
 
 ## Course Overview
-<p class="location">
+<!-- <p class="location">
   <i class="fa-solid fa-truck iconlocation"></i>
-</p>
+</p> -->
 
-<!-- 
-This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+In class XII we will drive deeper to understand nature of atoms. For this we will learn about the interaction of charges and how it leads to electromagnetic waves (light). 
 
-- Understand key machine learning paradigms and concepts
-- Implement basic machine learning algorithms
-- Evaluate and compare model performance
-- Apply machine learning techniques to real-world problems
+Then we will try to understand the duel nature of light, wave and particle, revealed through different experiments. Finally, with all this knowledge we will attempt to understand the structure of atoms, nucleus and how they are formed. 
+
+In last chapter we will get real example of how solid materials which are made of atoms behave in practical systems, and how electronic interactions in orbitals lead to insulators, semiconductors and metals. This era of electronics and internet stands on the `Grey Gold` silicon. The question, how Si has revolutionized the modern world, will be explored through the working of diode and transistor. 
 
 ## Prerequisites
 
+- Class XI topics i.e. units, laws of motion, work-energy, waves and oscillations
 - Basic knowledge of linear algebra and calculus
-- Programming experience in Python
-- Probability and statistics fundamentals
+
 
 ## Textbooks
 
-- Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
-- Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop 
- ## Grading
-
-- Assignments: 40%
-- Midterm Exam: 20%
-- Final Project: 30%
-- Participation: 10% 
--->
+- Primary: NCERT Textbook for Class-XII | Physic Part-I | Physics Part-II 
+- Reference: "FUNDAMENTALS OF PHYSICS" by David Halliday, Robert Resnick, Jearl Walker.
+- Further reading: 
+  - "Physics of Everyday Phenomena" by W. Thomas Griffith; B. Basista; N. Howell.
+  - "Physics for Entertainment" by Y. Perelman. [archive.org pdf link (9.6 MB)](https://archive.org/download/physicsforentert035428mbp/physicsforentert035428mbp.pdf)
