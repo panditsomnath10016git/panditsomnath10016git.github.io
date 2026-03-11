@@ -21,12 +21,14 @@ Startled by this quiet rebellion against relativity, we imagined stepping off th
 Then Rajasthan arrived not as a choice, but as a meteor. Its arid vastness struck our drought-stricken hearts and minds. In that blazing aftermath, the question of time—once so urgent—fell silent. The impact sent waves far beyond us, summoning Gemini, ChatGPT, and other tireless knights to a single, more elemental question crystallized from the dust: how might we draw water from the desert within a week? 
 On that, we found rare unanimity. To answer it, we would have to move not like passengers, nor even like pilots, but like a whirlwind itself—entering the desert not to endure it, but to change its course. Chronology surrendered to survival; relativity bowed before thirst.
 
-Immediately the plan was forged and quiet signals traveled through Airbnb and Google Maps, informing distant hosts and coordinates of our impending arrival. Routes traced, shelters secured. In this quiet orchestration, even the desert seemed forewarned—awaiting not merely our arrival, but our attempt to coax water from its silence and restore something long-dry within ourselves.
+Immediately, the plan was forged and quiet signals traveled through Airbnb and Google Maps, informing distant hosts and coordinates of our impending arrival. Routes traced, shelters secured. In this quiet orchestration, even the desert seemed forewarned—awaiting not merely our arrival, but our attempt to coax water from its silence and restore something long-dry within ourselves.
 
 
-### Day 1 : 19-07-2025 (saturday)
+### Day 1 : 19-07-2025 (saturday) - Jaipur
 
-Early morning flight from Kolkata to Jaipur 
+Early morning flight from Kolkata to Jaipur. 
+
+8:30 AM; Jaipur welcomed us with a cloudy sky and drizzle. The weather was very nice with the cold breeze.
 
 <div class="row mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -37,7 +39,7 @@ Early morning flight from Kolkata to Jaipur
     </div>
 </div>
 
-After tea and snacks and keeping luggage in room immedeately started for Amber fort through Jalmahal. At jalmahal stop we took photos as kings from history. We visited a museum nearby with old books and arts.
+After tea and snacks, and keeping luggage in the room, we immediately started for Amber fort through Jalmahal. At Jalmahal stop, we took photos as kings from history. We visited a museum nearby with old books and art.
 
 <div class="row mt-3">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -91,11 +93,14 @@ Day ended with Nahargarh fort suset view of the city.
 </div>
 
 
-### Day 2 : 20-07-2025 (sunday)
+### Day 2 : 20-07-2025 (sunday) - Jaipur
 jaipur..
 <div class="row mt-3">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -103,26 +108,29 @@ jaipur..
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="row mt-3">
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d2_9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     Albert Hall, Hawa Mahal, Jantar Mantar ..
 </div>
 
-22:40, 19665 / KURJ UDZ EXP, night express train operating between Khajuraho (KURJ) and Udaipur City (UDZ), will take us to our next destination Chittaurgarh (COR) from Jaipur(JP) station.  
+22:40, 19665 / KURJ UDZ EXP, night express train operating between Khajuraho (KURJ) and Udaipur City (UDZ), will take us to our next destination, Chittaurgarh (COR), from Jaipur(JP) station.  The driver dropped us at Jaipur station after taking ratings in Google Maps.
 
-### Day 3 : 21-07-2025 (monday)
-4.10 AM at dawn; Deboarded train at COR. With sleepy eyes, and a sip of tea, nature's call forced Debkanta? and Aditya? to the medival age toilets. Each one of them came back like a prancing colt one after other while the two of us (me and Richeek?) are sill sturggling to open our eyes. The reason of their sudden awakening of consciousness was well explained with smallest details over another round of tea while the car was on its way to us.
+### Day 3 : 21-07-2025 (monday) - Chittaurgarh, Udaipur
+4.10 AM at dawn; Deboarded train at COR. With sleepy eyes and a sip of tea, nature's call forced Debkanta? and Aditya? to the medieval age toilets. Each one of them came back like a prancing colt, one after other while the two of us (me and Richeek?) are still struggling to open our eyes. The reason for their sudden awakening of consciousness was well explained with the smallest details over another round of tea while the car was on its way to us.
 
 
 <div class="row mt-3">
@@ -179,7 +187,35 @@ Rana kumbha's palace, Fateh prakash palace ...
     </div>
 </div>
 
-Down from fort; roadside lunch and journey to Udaipur by same car ..
+Down from the fort; roadside lunch, and journey to Udaipur by the same car ..
+
+While reaching Udaipur, the landscape started to change into a verdant green hills. We reached our room booked from Airbnb, and the house owner, Sangeeta, showed us our delightful AC room with a sofa, 3 beds, a kitchen with a good amount of dining space. After being fresh, we went for an evening stroll around the city palace to Bagore ki Haveli beside Pichola lake.
+
+<div class="row mt-3">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_19.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_20.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_21.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_22.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_23.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<!-- <div class="caption">
+    Albert Hall, Hawa Mahal, Jantar Mantar ..
+</div> -->
+
+We returned to our room walking, taking food and a local sura 'Maharani' on our way, to calm our body and mind in the heart of the oasis.
+
 
 <!-- 
 <div class="spotlight-group">
