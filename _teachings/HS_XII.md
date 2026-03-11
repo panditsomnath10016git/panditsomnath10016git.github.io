@@ -28,15 +28,15 @@ topics:
   <i class="fa-solid fa-truck iconlocation"></i>
 </p> -->
 
-In class XII we will drive deeper to understand nature of atoms. For this we will learn about the interaction of charges and how it leads to electromagnetic waves (light). 
+In class XII, we will dive deeper to understand the nature of atoms. For this, we will learn about the interaction of charges and how it leads to electromagnetic waves (light). 
 
-Then we will try to understand the duel nature of light, wave and particle, revealed through different experiments. Finally, with all this knowledge we will attempt to understand the structure of atoms, nucleus and how they are formed. 
+Then we will try to understand the dual nature of light, wave and particle, revealed through different experiments. Finally, with all this knowledge, we will attempt to understand the structure of atoms, the nucleus and how they are formed. 
 
-In last chapter we will get real example of how solid materials which are made of atoms behave in practical systems, and how electronic interactions in orbitals lead to insulators, semiconductors and metals. This era of electronics and internet stands on the `Grey Gold` silicon. The question, how Si has revolutionized the modern world, will be explored through the working of diode and transistor. 
+In the last chapter, we will work on real examples of how solid materials, which are made of atoms, behave in practical systems, and how electronic interactions in orbitals lead to insulators, semiconductors and metals. This era of electronics and the internet stands on the `Grey Gold` silicon. The question of how Si has revolutionised the modern world will be explored through the working of the diode and transistor. 
 
 ## Prerequisites
 
-- Class XI topics i.e. units, laws of motion, work-energy, waves and oscillations
+- Class XI topics, i.e. units, laws of motion, work-energy, waves and oscillations
 - Basic knowledge of linear algebra and calculus
 
 
