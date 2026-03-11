@@ -13,13 +13,13 @@ topics:
     topic: Course Introduction
     description: Overview of experiments.
     materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+      # - name: Syllabus
+        # url: /assets/pdf/example_pdf.pdf
+      # - name: Slides
+        # url: /assets/pdf/example_pdf.pdf
     references:
-      - name: youtube
-        url: /assets/pdf/example_pdf.pdf
+      # - name: youtube
+        # url: /assets/pdf/example_pdf.pdf
 ---
 <hr>
 
