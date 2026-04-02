@@ -1,14 +1,22 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-27'
 papers:
   zZ5ELUcAAAAJ:9yKSN-GCB0IC:
     citations: 2
     title: Purcell enhanced laser action using a super-Tamm cavity mode
     year: '2025'
+  zZ5ELUcAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: A 1.5 D Photonic Crystal Interface for Prism-Free, Near-Normal, Low-Background Photoluminescence
+    year: '2026'
   zZ5ELUcAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Spatial Correlation of Whispering Gallery Modes in an Active Micro-Bottle Resonator
     year: '2024'
+  zZ5ELUcAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Tamm Mode-Aided Amplified Spontaneous Emission in One-Dimensional Photonic Crystal Super-Tamm Structure
+    year: '2023'
   zZ5ELUcAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: "Laser micromachined Moir\xE9 pattern strain sensors on polymer membrane"
