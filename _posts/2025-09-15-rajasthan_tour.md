@@ -203,10 +203,11 @@ While reaching Udaipur, the landscape started to change into a verdant green hil
     </div>
 </div>
 <div class="row mt-3">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_22.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_24.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_23.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -234,9 +235,112 @@ We returned to our room walking, taking food and a local sura 'Maharani' on our 
 
 
 
-### Day 4 : 22-07-2025 (tuesday)
+### Day 4 : 22-07-2025 (tuesday) - Udaipur
+Monsoon palace ..
+<div class="row mt-3">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
-### Day 5 : 23-07-2025 (wednesday)
+<div class="row mt-3">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+City palace..
+<div class="row mt-3">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-8 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_17.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_19.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_30.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_16.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-5 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_18.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-7 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_15.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+After a long battle between 'frugal Gandhi' and emotion, a spearlike blackmail by Debkanta yielded, and we boarded the boat to Jag Mandir. 
+<div class="row mt-3">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_29.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_24.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_23.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_25.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <div class="row mt-3">
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_21.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_22.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_20.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Sunset view of the pichola lake and reflection of light on the ever-running water ripples are deeply serene.
+
+<div class="row mt-3">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_32.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_28.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_26.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_31.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+10:05 PM - AC sleeper bus from Udaipur to Jaisalmer - to the sonar kella and Thar desert.
+
+### Day 5 : 23-07-2025 (wednesday) - Jaisalmer
+8:40 AM in morning bus drops us at its last stopage, jaisalmer.. 
 
 ### Day 6 : 24-07-2025 (thursday)
 
