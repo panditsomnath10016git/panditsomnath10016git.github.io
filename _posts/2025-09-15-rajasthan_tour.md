@@ -340,7 +340,106 @@ Sunset view of the pichola lake and reflection of light on the ever-running wate
 10:05 PM - AC sleeper bus from Udaipur to Jaisalmer - to the sonar kella and Thar desert.
 
 ### Day 5 : 23-07-2025 (wednesday) - Jaisalmer
-8:40 AM in morning bus drops us at its last stopage, jaisalmer.. 
+8:40 AM in morning bus drops us at its last stopage, jaisalmer. From there the taxi picks up for Sonar kella. After freshing up went to visit the fort.
+<div class="row mt-3">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-7 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-5 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        <div class="row mt-3">
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Sonar Kella (Jaisalmer fort).
+</div>
+After coming out of the living fort we started for Patwon Ji ki Haveli while exploring the alleys. Bought some 'hing' from a local store as the guide described it to be of good quality. At the end cold refreshing lassi was must as the heat increased significantly in noon.
+
+
+<div class="row mt-3">
+    <div class="col-sm-9 mt-3 mt-md-0">
+        <div class="row mt-3">
+            <div class="col-sm-5 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-7 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-8 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        <div class="row mt-3">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
+        <div class="row mt-3">
+        {% include video.liquid path="assets/video/rajasthan_tour/d5_1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        </div>
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Patwon ki haveli and thorough the city.
+</div>
+After having our lunch we started for the desert by the same taxi. We reached our tent in the afternoon. After settling down we boarded a jeep and started the journey to the heart of the desert. 
+
+<div class="row mt-3">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <div class="row mt-3">
+            {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_18.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            <div class="col-sm-3 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_19.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-5 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_16.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_20.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_15.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_21.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include video.liquid path="assets/video/rajasthan_tour/d5_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+            </div>
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_17.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
+    </div>
+</div>
+<div class="caption">
+    Thar desert.
+</div>
+Around evening we came back and had shower as fine sand has penetrated into our body. There was preparation going on for a cultural program. We enjoyed the program with few sips of sura that we had with us and the body relaxed at bed after this non-stop sprint.
 
 ### Day 6 : 24-07-2025 (thursday)
 
