@@ -21,8 +21,12 @@ Startled by this quiet rebellion against relativity, we imagined stepping off th
 Then Rajasthan arrived not as a choice, but as a meteor. Its arid vastness struck our drought-stricken hearts and minds. In that blazing aftermath, the question of time—once so urgent—fell silent. The impact sent waves far beyond us, summoning Gemini, ChatGPT, and other tireless knights to a single, more elemental question crystallized from the dust: how might we draw water from the desert within a week? 
 On that, we found rare unanimity. To answer it, we would have to move not like passengers, nor even like pilots, but like a whirlwind itself—entering the desert not to endure it, but to change its course. Chronology surrendered to survival; relativity bowed before thirst.
 
-Immediately, the plan was forged and quiet signals traveled through Airbnb and Google Maps, informing distant hosts and coordinates of our impending arrival. Routes traced, shelters secured. In this quiet orchestration, even the desert seemed forewarned—awaiting not merely our arrival, but our attempt to coax water from its silence and restore something long-dry within ourselves.
+Immediately, the plan was forged, and quiet signals traveled through Airbnb and Google Maps, informing distant hosts and coordinates of our impending arrival. Routes traced, shelters secured. In this quiet orchestration, even the desert seemed forewarned—awaiting not merely our arrival, but our attempt to coax water from its silence and restore something long-dry within ourselves.
 
+
+### Day 0 : 18-07-2025 (saturday) - Kolkata
+
+Evening train from Kharagpur to Howrah. Night stay at Kolkata airport lounge with dinner and herbal monk. Awake all night till dawn.
 
 ### Day 1 : 19-07-2025 (saturday) - Jaipur
 
@@ -39,7 +43,7 @@ Early morning flight from Kolkata to Jaipur.
     </div>
 </div>
 
-After tea and snacks, and keeping luggage in the room, we immediately started for Amber fort through Jalmahal. At Jalmahal stop, we took photos as kings from history. We visited a museum nearby with old books and art.
+After tea and snacks, we kept the luggage in the room and immediately started for the Amber Fort. On the way, we stopped at Jalmahal, took photos as kings from history. We visited a museum nearby with old books and art.
 
 <div class="row mt-3">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -54,7 +58,8 @@ After tea and snacks, and keeping luggage in the room, we immediately started fo
     Jalmahal
 </div>
 
-Amber Fort was heavily crowded, and it is a large fort spanning a large area. People are living in their homes, running market inside the fort boundary. The driver arranged a very friendly guide for the visit. The fort has its own flag and a small flag below that indicating the presence of the king. Amber and Jaigarh forts are close by, where we headed next. 
+Amber Fort was heavily crowded, and it is a large fort spread across a vast area. People live in homes and run markets within the fort boundaries. The driver arranged a very friendly guide for the visit. The fort has its own flag, and a smaller flag below it indicates the presence of the king. Amber Fort and Jaigarh Fort are located close to each other, and we headed there next.
+
 
 <div class="row mt-3">
     <div class="col-sm-3 mt-3 mt-md-0">
@@ -81,7 +86,8 @@ Amber Fort was heavily crowded, and it is a large fort spanning a large area. Pe
     Amber Fort and Jaigarh Fort
 </div>
 
-Day ended with Nahargarh fort suset view of the city.
+The day ended with a sunset view of the city from Nahargarh Fort.
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -127,10 +133,12 @@ jaipur..
     Albert Hall, Hawa Mahal, Jantar Mantar ..
 </div>
 
-22:40, 19665 / KURJ UDZ EXP, night express train operating between Khajuraho (KURJ) and Udaipur City (UDZ), will take us to our next destination, Chittaurgarh (COR), from Jaipur(JP) station.  The driver dropped us at Jaipur station after taking ratings in Google Maps.
+At 22:40, the 19665 KURJ UDZ Express, a night express train operating between Khajuraho (KURJ) and Udaipur (UDZ), would take us from Jaipur station (JP) to our next destination, Chittorgarh (COR). The driver dropped us off at Jaipur station after requesting a rating on Google Maps.
+
 
 ### Day 3 : 21-07-2025 (monday) - Chittaurgarh, Udaipur
-4.10 AM at dawn; Deboarded train at COR. With sleepy eyes and a sip of tea, nature's call forced Debkanta? and Aditya? to the medieval age toilets. Each one of them came back like a prancing colt, one after other while the two of us (me and Richeek?) are still struggling to open our eyes. The reason for their sudden awakening of consciousness was well explained with the smallest details over another round of tea while the car was on its way to us.
+At 4:10 AM, around dawn, we deboarded the train at Chittorgarh (COR). With sleepy eyes and a sip of tea, nature’s call forced Debkanta and Aditya to experience the station’s medieval-age toilets. Each of them returned one after another like prancing colts, while Richeek and I were still struggling to open our eyes. The reason behind their sudden burst of consciousness was explained in vivid detail over another round of tea while we waited for the car to arrive.
+
 
 
 <div class="row mt-3">
@@ -187,9 +195,10 @@ Rana kumbha's palace, Fateh prakash palace ...
     </div>
 </div>
 
-Down from the fort; roadside lunch, and journey to Udaipur by the same car ..
+After descending from the fort, we had a roadside lunch and continued our journey to Udaipur in the same car.
 
-While reaching Udaipur, the landscape started to change into a verdant green hills. We reached our room booked from Airbnb, and the house owner, Sangeeta, showed us our delightful AC room with a sofa, 3 beds, a kitchen with a good amount of dining space. After being fresh, we went for an evening stroll around the city palace to Bagore ki Haveli beside Pichola lake.
+As we approached Udaipur, the landscape gradually transformed into verdant green hills. We reached our Airbnb booked lodge, where the host, Sangeeta, showed us our delightful air-conditioned room, complete with a sofa, three beds, a kitchen, and a spacious dining area. After freshening up, we went for an evening stroll around City Palace, Bagore Ki Haveli, beside Lake Pichola.
+
 
 <div class="row mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -215,7 +224,8 @@ While reaching Udaipur, the landscape started to change into a verdant green hil
     Albert Hall, Hawa Mahal, Jantar Mantar ..
 </div> -->
 
-We returned to our room walking, taking food and a local sura 'Maharani' on our way, to calm our body and mind in the heart of the oasis.
+We walked back to our room, picking up some food and the local sura, “Maharani,” along the way, to relax our body and mind in the heart of the oasis.
+
 
 
 <!-- 
@@ -232,7 +242,6 @@ We returned to our room walking, taking food and a local sura 'Maharani' on our 
         <img src="/_site/assets/img/rajasthan_tour/d3_1-480.webp"/>
     </a>
 </div> -->
-
 
 
 ### Day 4 : 22-07-2025 (tuesday) - Udaipur
@@ -291,7 +300,9 @@ City palace..
     </div>
 </div>
 
-After a long battle between 'frugal Gandhi' and emotion, a spearlike blackmail by Debkanta yielded, and we boarded the boat to Jag Mandir. 
+After a long battle between “frugal Gandhi” and emotion, we yielded to Debkanta’s spear-like blackmail and boarded the boat to Jag Mandir.
+
+ 
 <div class="row mt-3">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_29.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -318,7 +329,7 @@ After a long battle between 'frugal Gandhi' and emotion, a spearlike blackmail b
     </div>
 </div>
 
-Sunset view of the pichola lake and reflection of light on the ever-running water ripples are deeply serene.
+Sunset view of the pichola lake and reflection of light on the ever-running ripples were deeply serene.
 
 <div class="row mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -335,12 +346,17 @@ Sunset view of the pichola lake and reflection of light on the ever-running wate
     <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_31.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="caption">
+        Pichola lake during sunset.
+    </div>
 </div>
 
-10:05 PM - AC sleeper bus from Udaipur to Jaisalmer - to the sonar kella and Thar desert.
+At 10:05 PM, we boarded an AC sleeper bus from Udaipur to Jaisalmer — onward to the Sonar Kella and the vast Thar Desert.
+
 
 ### Day 5 : 23-07-2025 (wednesday) - Jaisalmer
-8:40 AM in morning bus drops us at its last stopage, jaisalmer. From there the taxi picks up for Sonar kella. After freshing up went to visit the fort.
+At 8:40 AM, the bus dropped us at its final stop, Jaisalmer. From there, a taxi picked us up and took us to the Sonar Kella. After freshening up, we went to visit the fort.
+
 <div class="row mt-3">
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -426,10 +442,10 @@ After having our lunch we started for the desert by the same taxi. We reached ou
     <div class="col-sm-5 mt-3 mt-md-0">
             {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_15.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="row mt-3">
-            <div class="col-sm-6 mt-3 mt-md-0">
+            <div class="col-sm-5 mt-3 mt-md-0">
                 {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_21.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
             </div>
-            <div class="col-sm-6 mt-3 mt-md-0">
+            <div class="col-sm-7 mt-3 mt-md-0">
                 {% include video.liquid path="assets/video/rajasthan_tour/d5_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
             </div>
                 {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d5_17.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -442,7 +458,7 @@ After having our lunch we started for the desert by the same taxi. We reached ou
 Around evening we came back and had shower as fine sand has penetrated into our body. There was preparation going on for a cultural program. We enjoyed the program with few sips of sura that we had with us and the body relaxed at bed after this non-stop sprint.
 
 ### Day 6 : 24-07-2025 (thursday)
-On our way back we visited an broken old village named Kuldhara which was mysteriously abandoned overnight in 1825 by the Paliwal Brahmins. While moving through the ruins it suddenly felt like the movie Kaalo, which I watched as a young boy in TV, was shot here and later I searched it to be true. 
+On our way back, we visited the abandoned village of Kuldhara, which was mysteriously deserted overnight in 1825 by the Paliwal Brahmins. While walking through the ruins, it suddenly felt as though scenes from the movie Kaalo — which I had watched on TV as a young boy — had been shot there. Later, I looked it up and discovered that it was indeed true.
 
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -472,7 +488,7 @@ On our way back we visited an broken old village named Kuldhara which was myster
     Kuldhara village.
 </div>
 
-The next stop was "Bada bag" which is a historic complex of royal tombs in an oasis. 
+TThe next stop was Bada Bagh, a historic complex of royal cenotaphs set amidst an oasis.
 
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -497,12 +513,106 @@ The next stop was "Bada bag" which is a historic complex of royal tombs in an oa
 <div class="caption">
     Bada Bag and with our driver dada after lunch at Jaisalmer.
 </div>
-After lunch at Gandhi Nagar near jaisalmer fort, the cab took us to jaisalmer station for our train at 3:30 PM. 
-Sabarmati express reached Jodhpur near 9 PM. 
+After lunch at Gandhi Nagar near jaisalmer fort, the cab took us to jaisalmer station for our train at 3:30 PM.
+
+The Sabarmati Express reached Jodhpur around 9 PM. Our booked room, “Kotam Vista,” was located very close to Mehrangarh Fort, near Ranisar Talab. Due to the rain, the talab was full, and the uphill road had turned into a small river. We had a delicious home-cooked dinner on the rooftop. There was also a tough round of negotiation over the room rent in Jaipur for the following night.
+
 
 ### Day 7 : 25-07-2025 (saturday)
+With a view of Mehrangarh Fort from the rooftop, we had our morning tea. We then booked an auto to visit Umaid Bhawan Palace.
 
+After returning and having lunch at Sardar Market, passing through Ghanta Ghar, Jodhpur and the famous Toorji Ka Jhalra (Toorji’s Stepwell), we climbed up to Mehrangarh Fort around 4:30 PM.
+
+<div class="row mt-3">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_7.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+        Umaid Bhawan palace, Sardar market, ghanta ghar, Toorji Ka Jhalra.
+    </div>
+</div>
+
+The heavily designed windowed walls of Mehrangarh Fort appeared to be made of wood because of their texture and color.
+
+<div class="row mt-3">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_15.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-3 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_16.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_17.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-5 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_18.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        <div class="row mt-3">
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_19.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_20.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_21.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_22.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_23.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Mehrangarh fort.
+</div>
+
+We came out of Mehrangarh Fort through Fateh Pol, from where our room was nearby. Later around 7:30 PM, we left the room for the 22996 / Mandore Express from Jodhpur Junction at 8:30 PM.
+
+<div class="row mt-3">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_30.webp" max-width="70%" class="img-fluid rounded z-depth-0 mx-auto d-block" zoomable=false %}
+</div>
 ### Day 8 : 26-07-2025 (sunday)
+Around 1:30 AM, we reached Jaipur. The room we had booked was close to the station. After spending the night there, we left our luggage at the lodge and headed out for our final day of shopping. After rushed shopping in the hot weather, we had tea near Badi Chaupar metro station. We bought plenty of Ghewar for our family and friends back home. We returned to the lodge via the city’s only metro line.
+While collecting our luggage, booked a cab to Jaipur International Airport for our flight in the afternoon. 
+
+In the evening, our flight took us back to Kolkata, where my father was waiting with the car to take us home. On the way back, in the humid weather and with tired eyes, I narrated the story of our journey to him.
+
+
 
 <hr>
 <ul class="p-0 m-0">
