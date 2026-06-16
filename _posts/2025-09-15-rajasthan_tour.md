@@ -442,6 +442,63 @@ After having our lunch we started for the desert by the same taxi. We reached ou
 Around evening we came back and had shower as fine sand has penetrated into our body. There was preparation going on for a cultural program. We enjoyed the program with few sips of sura that we had with us and the body relaxed at bed after this non-stop sprint.
 
 ### Day 6 : 24-07-2025 (thursday)
+On our way back we visited an broken old village named Kuldhara which was mysteriously abandoned overnight in 1825 by the Paliwal Brahmins. While moving through the ruins it suddenly felt like the movie Kaalo, which I watched as a young boy in TV, was shot here and later I searched it to be true. 
+
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <div class="row mt-3">
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_5.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-6 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+</div>
+<div class="caption">
+    Kuldhara village.
+</div>
+
+The next stop was "Bada bag" which is a historic complex of royal tombs in an oasis. 
+
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="row mt-3">
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_11.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_12.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+            <div class="col-sm-4 mt-3 mt-md-0">
+                {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_13.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_14.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d6_20.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Bada Bag and with our driver dada after lunch at Jaisalmer.
+</div>
+After lunch at Gandhi Nagar near jaisalmer fort, the cab took us to jaisalmer station for our train at 3:30 PM. 
+Sabarmati express reached Jodhpur near 9 PM. 
 
 ### Day 7 : 25-07-2025 (saturday)
 
