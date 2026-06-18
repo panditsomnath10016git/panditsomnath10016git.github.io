@@ -47,11 +47,11 @@ After tea and snacks, we kept the luggage in the room and immediately started fo
 
 <div class="row mt-3">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d1_jalmahal.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d1_attire.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d1_jalmahal.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d1_jalmahal2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-        {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d1_attire.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -96,6 +96,9 @@ The day ended with a sunset view of the city from Nahargarh Fort.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/rajasthan_tour/d1_nahargarh2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="caption">
+    Sunset view of Jjaipur city from Nahargarh Fort.
 </div>
 
 
@@ -180,7 +183,9 @@ Vijay stambh, Kali mata temple, Meera temple, kirti stambh, gau mukh kund, maha 
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_14.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
+<div class="caption">
+    Vijay stambh, Kali mata temple, Meera temple, kirti stambh, gau mukh kund..
+</div>
 
 Rana kumbha's palace, Fateh prakash palace ...
 <div class="row mt-3">
@@ -193,6 +198,9 @@ Rana kumbha's palace, Fateh prakash palace ...
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_17.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="caption">
+    Rana Kumbha palace.
 </div>
 
 After descending from the fort, we had a roadside lunch and continued our journey to Udaipur in the same car.
@@ -220,6 +228,9 @@ As we approached Udaipur, the landscape gradually transformed into verdant green
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d3_23.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+    Lake Pichola near Bagore ki haveli.
+</div>
 <!-- <div class="caption">
     Albert Hall, Hawa Mahal, Jantar Mantar ..
 </div> -->
@@ -245,7 +256,7 @@ We walked back to our room, picking up some food and the local sura, “Maharani
 
 
 ### Day 4 : 22-07-2025 (tuesday) - Udaipur
-Monsoon palace ..
+
 <div class="row mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -266,8 +277,10 @@ Monsoon palace ..
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_5.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+    Monsoon palace.
+</div>
 
-City palace..
 <div class="row mt-3">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_10.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -299,6 +312,9 @@ City palace..
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_15.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+    City palace.
+</div>
 
 After a long battle between “frugal Gandhi” and emotion, we yielded to Debkanta’s spear-like blackmail and boarded the boat to Jag Mandir.
 
@@ -328,7 +344,9 @@ After a long battle between “frugal Gandhi” and emotion, we yielded to Debka
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_20.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
+<div class="caption">
+    Pichola lake and Jag Mandir.
+</div>
 Sunset view of the pichola lake and reflection of light on the ever-running ripples were deeply serene.
 
 <div class="row mt-3">
@@ -346,9 +364,9 @@ Sunset view of the pichola lake and reflection of light on the ever-running ripp
     <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d4_31.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="caption">
-        Pichola lake during sunset.
-    </div>
+</div>
+<div class="caption">
+    Pichola lake during sunset.
 </div>
 
 At 10:05 PM, we boarded an AC sleeper bus from Udaipur to Jaisalmer — onward to the Sonar Kella and the vast Thar Desert.
@@ -548,9 +566,9 @@ After returning and having lunch at Sardar Market, passing through Ghanta Ghar, 
     <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rajasthan_tour/d7_8.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="caption">
-        Umaid Bhawan palace, Sardar market, ghanta ghar, Toorji Ka Jhalra.
-    </div>
+</div>
+<div class="caption">
+    Umaid Bhawan palace, Sardar market, ghanta ghar, Toorji Ka Jhalra.
 </div>
 
 The heavily designed windowed walls of Mehrangarh Fort appeared to be made of wood because of their texture and color.
