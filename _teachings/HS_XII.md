@@ -28,6 +28,8 @@ topics:
   <i class="fa-solid fa-truck iconlocation"></i>
 </p> -->
 
+![logo_BNR_school]({{ 'assets/img/teaching_BNR_school.webp' | relative_url }}){: style="float: right; margin-left: 30px; width: 150px;" }
+
 In class XII, we will dive deeper to understand the nature of atoms. For this, we will learn about the interaction of charges and how it leads to electromagnetic waves (light). 
 
 Then we will try to understand the dual nature of light, wave and particle, revealed through different experiments. Finally, with all this knowledge, we will attempt to understand the structure of atoms, the nucleus and how they are formed. 

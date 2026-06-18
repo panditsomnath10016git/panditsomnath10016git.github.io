@@ -20,15 +20,15 @@ Students of classes V to XII are involved in this programme. This is not just ab
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/teaching/rkm_2.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/teaching/rkm_2.webp" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/teaching/rkm_3.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/teaching/rkm_3.webp" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/teaching/rkm_1.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/teaching/rkm_1.webp" title="" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/rkm_logo.jpg" title="RKM logo" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/rkm_logo.webp" title="RKM logo" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>

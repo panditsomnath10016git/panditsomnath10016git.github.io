@@ -24,6 +24,9 @@ topics:
 <hr>
 
 ## Course Overview
+
+![logo_BNR_school]({{ 'assets/img/teaching_BNR_school.webp' | relative_url }}){: style="float: right; margin-left: 30px; width: 150px;" }
+
 <p class="location">
   <i class="fa-solid fa-truck iconlocation"></i>
 </p>

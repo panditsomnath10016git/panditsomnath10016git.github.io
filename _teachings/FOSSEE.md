@@ -54,6 +54,6 @@ as vector fields
         {% include video.liquid path="https://www.youtube.com/embed/4KTORW2xIpY?si=RmYboEPxBYobtrhz" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-      {% include figure.liquid path="assets/img/FOSSEE_logo.jpg" title="FOSSEE logo" class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid path="assets/img/FOSSEE_logo.webp" title="FOSSEE logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
