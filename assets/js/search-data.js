@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-rajasthan-tour",
+            },{id: "post-beginner-39-s-tools-for-research",
+        
+          title: "Beginner&#39;s Tools for Research",
+        
+        description: "Research tools I found useful as a beginner.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/research_tools/";
+          
+        },
+      },{id: "post-rajasthan-tour",
         
           title: "Rajasthan Tour",
         
