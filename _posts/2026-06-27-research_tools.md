@@ -5,6 +5,7 @@ date: 2026-06-27 01:14:00
 description: Research tools I found useful as a beginner.
 tags: zotero zettlr python research cite automation 
 categories: research
+thumbnail: assets/img/blog/blog_beginner_tools.webp
 giscus_comments: false
 related_posts: true
 toc:
