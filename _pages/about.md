@@ -6,7 +6,7 @@ subtitle: Research Scholar | PMRF | @<a href='https://www.iitkgp.ac.in'>IIT Khar
 
 profile:
   align: right
-  image: photo2_crop.jpg
+  image: photo.webp
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Prime Minister's Research Fellow,</p>
