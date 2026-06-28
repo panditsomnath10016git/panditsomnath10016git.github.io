@@ -3,7 +3,7 @@ layout: post
 title: Beginner's Tools for Research
 date: 2026-06-27 01:14:00
 description: Research tools I found useful as a beginner.
-tags: zotero zettler python research cite automation 
+tags: zotero zettlr python research cite automation 
 categories: research
 giscus_comments: false
 related_posts: true
@@ -18,9 +18,9 @@ Another thing is when you are discussing with someone you may have your computer
 
 During experiments you will generate a lot of data repeatitively, processing and visualizing them manually (Excel-Origin way) can be fustrating. You will get addicted to automation and workflows for faster understanding of data and be less boared once get used to writing codes/scripts. 
 
-In this context I will give a glimpse of three tools I found very useful while starting as a PhD student - 
+In this context I will give a glimpse of three free tools I found very useful while starting as a PhD student - 
 - [Zotero](https://www.zotero.org/) - for collecting, navigating and citing articles
-- [Zettler](https://www.zettlr.com/) - for writing, conslidating topics with citations and cross referencing
+- [Zettlr](https://www.zettlr.com/) - for writing, conslidating topics with citations and cross referencing
 - [Python](https://www.python.org/) and [VS Code](https://code.visualstudio.com/) - automating data processing and visualizations.
 
 ### Zotero
@@ -45,17 +45,60 @@ The features I find attractive in Zotero -
     Adding citations in Zotero
 </div>
 
-For getting more detalied use cases go through the [Zotero documentation](https://www.zotero.org/support/quick_start_guide)
-
-<div class="row justify-content-sm-center">
+<div class="row mt-3">
     {% include video.liquid path="https://www.youtube.com/embed/mxLdFJoaFBY?si=QWrYfWRstvf-vGSM" class="img-fluid rounded z-depth-1" %}
 </div>
 
--> [Better BibTeX (Zotero Plug-In) - LaTeX - LibGuides at University of Massachusetts Amherst](https://guides.library.umass.edu/c.php?g=1402580\&p=10705039)
+For getting more detalied use cases go through the [Zotero documentation](https://www.zotero.org/support/quick_start_guide)
 
+-> [Better BibTeX (Zotero Plug-In) - LaTeX - LibGuides at University of Massachusetts Amherst](https://guides.library.umass.edu/c.php?g=1402580\&p=10705039)\\
+-> [Wikidata's Cita page](https://www.wikidata.org/wiki/Wikidata:Zotero/Cita)
 
-### Zettler
-For
+### Zettlr
+While wrting in MS word, manging documents more than a few pages with figures and equations becomes fustrating. So, we go to latex for peaceful writing in a text editor and less bothered about the postions or numberings and finding symbols for equations. But in latex you need to compile the document you have written everytime you want to see the final result. While just jotting down a draft it might feel a lot of work and you go back to word. [Markdown](https://www.markdownguide.org/getting-started/) comes as a saviour with very minimal writing syntax but works like a live latex document. There are different markdown flavours available with few variations in syntax. 
+
+For jotting down connected topics or ideas, and also writing aricles for publishing, [Zettlr](https://www.zettlr.com/) is a tool of comfort. Interstingly, whatever you write in Zettlr you can export to pdf, Word, latex, html and so on. It can serve as a primary drafiting station. Citations, equations, links, images, videos, tables, lists anything at ease. This page itself is written in Zettlr.
+
+<div class="row mt-3">
+    {% include video.liquid 
+    path="assets/video/zettlr_eqn.mp4" 
+    class="img-fluid rounded z-depth-1" 
+    autoplay=true 
+    loop=true 
+    muted=true 
+    playsinline=true 
+    %}
+</div>
+<div class="caption">
+    Writing equation and symbols in Zettlr
+</div>
+
+Using a bibliography source file loaded you can seamlessly add citations inline - 
+<div class="row mt-3">
+    {% include video.liquid 
+    path="assets/video/zettlr_cite.mp4" 
+    class="img-fluid rounded z-depth-1" 
+    autoplay=true 
+    loop=true 
+    muted=true 
+    playsinline=true 
+    %}
+</div>
+<div class="caption">
+    Adding citations in Zettlr
+</div>
+
+<div class="row mt-3">
+    {% include video.liquid path="https://www.youtube.com/embed/OPQDX6d3hjk?si=5FcfSx0XFTN0j12B&amp;start=145" class="img-fluid rounded z-depth-1" %}
+</div>
+
+Visit [Zettlr documentation page](https://docs.zettlr.com/en/) to explore the possibilities.
+
+-> [Basic markdown sytax](https://www.markdownguide.org/basic-syntax/)\\
+-> [Zettlr citations documentation](https://docs.zettlr.com/en/editor/citations/)\\
+-> [Zotero and Zettlr integration](https://docs.zettlr.com/en/guides/reference-manager-integration/#)\\
+-> [pandoc-crossref releases page](https://github.com/lierdakil/pandoc-crossref/releases/tag/v0.3.24a)
 
 ### Python and VS Code
 As
+
