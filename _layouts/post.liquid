@@ -13,6 +13,13 @@ layout: default
   </style>
 {% endif %}
 
+<!-- Top Back to Blog Button -->
+<div class="mb-4">
+  <a href="{{ '/blog/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" style="border: 1px solid var(--global-text-color); color: var(--global-text-color); padding: .25rem .5rem;">
+    <i class="fa-solid fa-arrow-left-long mr-1"></i> Back to Blog
+  </a>
+</div> 
+
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
