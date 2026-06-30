@@ -85,18 +85,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/flow/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "teachings-integrals-of-multivariable-functions-fossee",
+            },},{id: "teachings-integrals-of-multivariable-functions-fossee",
           title: 'Integrals of Multivariable Functions | FOSSEE',
           description: "Before joining M.Sc., I worked as a FOSSEE summer fellow for two months under IIT Bombay. During this period I worked on creating illustrative notes to aid students with Integrals of Multivariable Functions.",
           section: "Teachings",handler: () => {
