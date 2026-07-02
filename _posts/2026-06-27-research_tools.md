@@ -13,33 +13,34 @@ toc:
 mermaid:
   enabled: true
 ---
-While getting into research the first thing that overwhelmes most is the literature survey. Initially it might seem like never ending. Each article will cite plenty of other articles to read for an overall understanding. Eventally it can be a real stuggle to keep track of what you have read and find a specific article in your mind. 
+While getting into research, the first thing that overwhelms most is the literature survey. Initially, it might seem like it's never-ending. Each article will cite plenty of other articles to read for an overall understanding. Eventually, it can be a real struggle to keep track of what you have read and find a specific article in your mind. 
 
-Over time you might remember keywords and images to search the article for digging the details. 
-One good way to keep track of an article is to write a line or two about it under a broader topic and cite it. You can do it in a notebook/diary but with increasing number of articles and topics it might be difficult to navigate. 
-Another thing is when you are discussing with someone you may have your computer infront of you rather than the diary for a quick search. Then if you want to write and share something it is 99% times digital so it might be faster if you have already something written digitally. Although nothing can beat pen and paper while connecting ideas or resolving complex queries.
+Over time, you might remember keywords and images to search for the article to dig deeper into the details. [Scopus](https://www.scopus.com), [Google Scholar](https://scholar.google.com/), or just a web search is utilized for finding articles.
+One good way to keep track of an article is to write a line or two about it under a broader topic and cite it. You can do it in a notebook/diary, but with an increasing number of articles and topics, it might be difficult to navigate. 
 
-During experiments you will generate a lot of data repeatitively, processing and visualizing them manually (Excel-Origin way) can be fustrating. You will get addicted to automation and workflows for faster understanding of data and be less boared once get used to writing codes/scripts. 
+Another practical issue is accessibility. When you are discussing with someone, you may have your computer in front of you rather than the diary for a quick search. Then, if you want to write and share something, it is 99% of the time digital, so it might be faster if you already have something written digitally. Although nothing can beat pen and paper while connecting ideas or resolving complex queries.
 
-In this context I will give a glimpse of three free tools I found very useful while starting as a PhD student - 
-- [Zotero](https://www.zotero.org/) - for collecting, navigating and citing articles
-- [Zettlr](https://www.zettlr.com/) - for writing, conslidating topics with citations and cross referencing
+During experiments, you will generate a lot of data repeatedly, and processing and visualizing them manually (Excel-Origin way) can be frustrating. You will get addicted to automation and workflows for faster understanding of data, and be less bored once you get used to writing codes/scripts. 
+
+In this context, I will give a glimpse of three free tools I found very useful while starting as a PhD student - 
+- [Zotero](https://www.zotero.org/) - for collecting, navigating, and citing articles
+- [Zettlr](https://www.zettlr.com/) - for writing, consolidating topics with citations and cross-referencing
 - [Python](https://www.python.org/) and [VS Code](https://code.visualstudio.com/) - automating data processing and visualizations.
 
 ### Zotero
-‘[Zotero](https://www.zotero.org/) is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research’. When you get a relevant paper just copy the doi and enter in Zotero, it will automatically fetch all details of the paper and if possible also the pdf in the Zotero library. You can have different libraries in Zotero for different research topics. 
+‘[Zotero](https://www.zotero.org/) is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.’ When you get a relevant paper, just copy the DOI and enter it in Zotero; it will automatically fetch all details of the paper and, if possible, also the PDF in the Zotero library. You can have different libraries in Zotero for different research topics. 
 
 The features I find attractive in Zotero -
-- adding new papers just by entering DOI
-- exporting citations for latex
+- adding new papers just by entering the DOI
+- exporting citations for $\LaTeX$
 - citing directly in MS Word
 - integrated search bar
-- intergrated pdf reader with higligting and note
+- integrated PDF reader with highlighting and note-taking
 - tagging
 - RSS feeds for getting journal research updates
 - auto update exported bib file with [BetterBibTex](https://retorque.re/zotero-better-bibtex/index.html)
-- visualizing connection between the atricles with [Cita](https://github.com/zotero-cita/zotero-cita)
-- multi device sync with account (but limited storge)
+- visualizing connection between the articles with [Cita](https://github.com/zotero-cita/zotero-cita)
+- multi-device sync with account (but limited storage)
 
 <div class="row mt-2 mb-1">
         {% include figure.liquid loading="eager" path="assets/img/blog/zotero_add_item.webp" max-width="90%" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true %}
@@ -52,15 +53,15 @@ The features I find attractive in Zotero -
     {% include video.liquid path="https://www.youtube.com/embed/mxLdFJoaFBY?si=QWrYfWRstvf-vGSM" class="img-fluid rounded z-depth-1" %}
 </div>
 
-For getting more detalied use cases go through the [Zotero documentation](https://www.zotero.org/support/quick_start_guide)
+For getting more detailed use cases, go through the [Zotero documentation](https://www.zotero.org/support/quick_start_guide)
 
--> [Better BibTeX (Zotero Plug-In) - LaTeX - LibGuides at University of Massachusetts Amherst](https://guides.library.umass.edu/c.php?g=1402580\&p=10705039)\\
--> [Wikidata's Cita page](https://www.wikidata.org/wiki/Wikidata:Zotero/Cita)
+<i class="fa-solid fa-caret-right"></i> [Better BibTeX (Zotero Plug-In) - LaTeX - LibGuides at University of Massachusetts Amherst](https://guides.library.umass.edu/c.php?g=1402580\&p=10705039)\\
+<i class="fa-solid fa-caret-right"></i> [Wikidata's Cita page](https://www.wikidata.org/wiki/Wikidata:Zotero/Cita)
 
 ### Zettlr
-While wrting in MS word, manging documents more than a few pages with figures and equations becomes fustrating. So, we go to latex for peaceful writing in a text editor and less bothered about the postions or numberings and finding symbols for equations. But in latex you need to compile the document you have written everytime you want to see the final result. While just jotting down a draft it might feel a lot of work and you go back to word. [Markdown](https://www.markdownguide.org/getting-started/) comes as a saviour with very minimal writing syntax but works like a live latex document. There are different markdown flavours available with few variations in syntax. 
+While writing in MS Word, managing documents more than a few pages with figures and equations becomes frustrating. So, we go to LaTeX for peaceful writing in a text editor and are less bothered about the positions or numberings and finding symbols for equations. But in LaTeX, you need to compile the document you have written every time you want to see the final result. While just jotting down a draft, it might feel like a lot of work, and you go back to Word. [Markdown](https://www.markdownguide.org/getting-started/) comes as a saviour with very minimal writing syntax, but works like a live LaTeX document. There are different Markdown flavours available with a few variations in syntax. 
 
-For jotting down connected topics or ideas, and also writing aricles for publishing, [Zettlr](https://www.zettlr.com/) is a tool of comfort. Interstingly, whatever you write in Zettlr you can export to pdf, Word, latex, html and so on. It can serve as a primary drafiting station. Citations, equations, links, images, videos, tables, lists anything at ease. This page itself is written in Zettlr.
+For jotting down connected topics or ideas, and also writing articles for publishing, [Zettlr](https://www.zettlr.com/) is a tool of comfort. Interestingly, whatever you write in Zettlr, you can export to PDF, Word, LaTeX, HTML, and so on. It can serve as a primary drafting station. Citations, equations, links, images, videos, tables, lists, anything at ease. This page itself is written in Zettlr.
 
 <div class="row mt-2 mb-1">
     {% include video.liquid 
@@ -76,7 +77,7 @@ For jotting down connected topics or ideas, and also writing aricles for publish
     Writing equation and symbols in Zettlr
 </div>
 
-Using a bibliography source file loaded you can seamlessly add citations inline - 
+Using a bibliography source file loaded, you can seamlessly add citations inline - 
 <div class="row mt-2 mb-1">
     {% include video.liquid 
     path="assets/video/zettlr_cite.mp4" 
@@ -97,14 +98,15 @@ Using a bibliography source file loaded you can seamlessly add citations inline 
 
 Visit [Zettlr documentation page](https://docs.zettlr.com/en/) to explore the possibilities.
 
--> [Basic markdown sytax](https://www.markdownguide.org/basic-syntax/)\\
--> [Zettlr citations documentation](https://docs.zettlr.com/en/editor/citations/)\\
--> [Zotero and Zettlr integration](https://docs.zettlr.com/en/guides/reference-manager-integration/#)\\
--> [pandoc-crossref releases page](https://github.com/lierdakil/pandoc-crossref/releases/tag/v0.3.24a)
+<i class="fa-solid fa-caret-right"></i> [Basic markdown sytax](https://www.markdownguide.org/basic-syntax/)\\
+<i class="fa-solid fa-caret-right"></i> [Zettlr citations documentation](https://docs.zettlr.com/en/editor/citations/)\\
+<i class="fa-solid fa-caret-right"></i> [Zotero and Zettlr integration](https://docs.zettlr.com/en/guides/reference-manager-integration/#)\\
+<i class="fa-solid fa-caret-right"></i> [pandoc-crossref releases page](https://github.com/lierdakil/pandoc-crossref/releases/tag/v0.3.24a)
 
 ### Python and VS Code
 
-Most of the times one experiment is repeated multiple times and the data has to be processed every time to understand the results, automating the process or atleast part of it makes the process significantly faster. For example, when I take a series of continuous spectrum to observe the chnages in an optical mode it is thousands of spectrum as column in the data as shown below. 
+Most of the time, an experiment is repeated multiple times, and the data have to be processed after every run to properly understand the results. Automating the process, or at least parts of it, makes the workflow significantly faster. For example, when I record a series of continuous spectra to observe changes in an optical mode, the experiment generates thousands of spectra stored as columns in the dataset, as shown below.
+
 ```math
 # wl	 scan1	scan2		scan3	scan4		scan5	scan6 	scan7		scan8	scan9...
 420.27	0.6294	0.63077	0.68675	0.62037	0.67407	0.65529	0.68027	0.66025	0.69008...
@@ -117,8 +119,7 @@ Most of the times one experiment is repeated multiple times and the data has to 
 .
 .
 ```
-
-Plotting, finding the modes and their quanlity factor can be challenging without using a code. The left image shows the data as a colormap where y axis is going to be wavelengths and x axis is scan numbers. I want to find the quality factor of the modes, compare the spectra to simulation to find actual values of a parameter along x axis. Analyzing with graph plotting softwares will be a nightmare. Moreover, I have 20 such dataset to analyze! The right side image is the final processed spectra with modes traced and x axis labeled as thickness.
+Plotting the spectra, identifying the modes, and calculating their quality factors can be challenging without using code. The left image shows the raw data as a colormap, where the y-axis represents wavelength and the x-axis represents scan number. From this data, I want to determine the quality factors of the modes and compare the spectra with simulations to extract the actual values of a parameter along the x-axis. Doing this manually using graph-plotting software would be a nightmare — especially when I have around 20 such datasets to analyze! The image on the right shows the final processed spectra, with the modes traced and the x-axis labeled as thickness.
 
 <div class="row mt-2 mb-1">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -146,31 +147,34 @@ flowchart LR
 
 	linkStyle default stroke:red,stroke-width:4px
 ```
-The python packges need for this is [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html), [scipy](https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide) and [matplotlib](https://matplotlib.org/) only. 
+The Python packages needed for this are [NumPy](https://numpy.org/doc/stable/user/absolute_beginners.html), [SciPy](https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide), and [Matplotlib](https://matplotlib.org/) only.
 
-With the script ready for each new file we just have to enter the filepath and it will return the processed image and data. Some codes will be repeateadly used so you will develop your own functions or even library and import it in other scripts. Writing your first script might feel slow but the time it will save later is worth it. 
-[Python](https://www.python.org/) is free and opensource programming language widely used for easy syntax, large range of available libraries to start with, large online communities and forums with Q&A. Whatever you imagine to do with the data you will find answer on web search. Once you install python try ```import antigravity```.
+Once the script is ready, for every new dataset you simply need to provide the file path, and the script will return the processed plots and extracted data automatically. Some pieces of code will be used repeatedly, so over time you will start developing your own functions or even small libraries that can be imported into other scripts. Writing your first script may feel slow and frustrating, but the time it saves later is absolutely worth it.
+
+[Python](https://www.python.org/) is a free and open-source programming language widely used because of its simple syntax, extensive collection of libraries, and large online community with active forums and Q&A resources. Whatever you want to do with your data, chances are someone has already discussed it online. Once you install Python, try running -
+```python
+import antigravity
+```
 
 <div class="row mt-2 mb-1 justify-content-center">
-  <div class="col-8">
-    {% include figure.liquid loading="eager" path="assets/img/blog/import_antigravity.webp" class="img-fluid rounded z-depth-1"  max-width="60%" zoomable=true %}
+  <div class="col-10">
+    {% include figure.liquid loading="eager" path="assets/img/blog/import_antigravity.webp" class="img-fluid rounded z-depth-1"  max-width="80%" zoomable=true %}
   </div>
 </div>
 
-Also for generating repetitive publication quality plots custom plotting styles can be saved as `.mplstyle` and used while plotting.
+Also, for generating repetitive publication-quality plots, custom plotting styles can be saved as `.mplstyle` files and reused while plotting.
 
-Python is the interpreter but you have to write the code in a text editor and run it with python. The choice of the editor can make a difference how fast you can write a code and be less frustrated. With the variety of extensions and keyboard shortcuts it will be easy to maintain any size of code in [Visual studio code](https://code.visualstudio.com/) (VS code). If you want to work with [jupyter notebooks](https://docs.jupyter.org/en/latest/) vscode supports it. 
+Python is the interpreter, but you still need a text editor to write and run the code. The choice of editor can significantly affect how quickly you can write code and how frustrated you feel while working. With its wide range of extensions and keyboard shortcuts, [Visual Studio Code](https://code.visualstudio.com/) (VS Code) makes it easier to manage projects of any size. If you want to work with [Jupyter notebooks](https://docs.jupyter.org/en/latest/), VS Code supports them seamlessly.
 
 <div class="row mt-2 mb-1 justify-content-center">
-  <div class="col-8">
+  <div class="col-12">
     {% include figure.liquid loading="eager" path="assets/img/blog/vscode_shortcuts.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
-
--> [Python for beginners](https://www.python.org/about/gettingstarted/)\\
--> [Customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/stable/users/explain/customizing.html)\\
--> [SciencePlots](https://github.com/garrettj403/SciencePlots), [mpltex](https://github.com/liuyxpp/mpltex) [LovelyPlots](https://github.com/killiansheriff/LovelyPlots), 
--> [Quick Start Guide for Python in VS Code](https://code.visualstudio.com/docs/python/python-quick-start)\\
--> [vscode tips and tricks](https://github.com/microsoft/vscode-tips-and-tricks)
+<i class="fa-solid fa-caret-right"></i> [Python for beginners](https://www.python.org/about/gettingstarted/)\\
+<i class="fa-solid fa-caret-right"></i> [Customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/stable/users/explain/customizing.html)\\
+<i class="fa-solid fa-caret-right"></i> [SciencePlots](https://github.com/garrettj403/SciencePlots), [mpltex](https://github.com/liuyxpp/mpltex), [LovelyPlots](https://github.com/killiansheriff/LovelyPlots)\\
+<i class="fa-solid fa-caret-right"></i> [Quick Start Guide for Python in VS Code](https://code.visualstudio.com/docs/python/python-quick-start)\\
+<i class="fa-solid fa-caret-right"></i> [vscode tips and tricks](https://github.com/microsoft/vscode-tips-and-tricks)
 
