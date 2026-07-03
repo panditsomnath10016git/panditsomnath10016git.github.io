@@ -59,7 +59,7 @@ For getting more detailed use cases, go through the [Zotero documentation](https
 <i class="fa-solid fa-caret-right"></i> [Wikidata's Cita page](https://www.wikidata.org/wiki/Wikidata:Zotero/Cita)
 
 ### Zettlr
-Writing long documents in MS Word, especially when you’ve got figures and equations, can make you 😫😭! That’s why a lot of us switch to LaTeX—it makes writing way easier since you don't have to stress about formatting, numbering, or hunting for symbols for equations.
+Writing long documents in MS Word, especially when you’ve got figures and equations, can make you :grimacing: :sob:! That’s why a lot of us switch to LaTeX. It makes writing long documents way easier since you don't have to stress about formatting, numbering, or hunting for symbols for equations.
 
 But in LaTeX, you need to compile the document you have written every time you want to see the final result. While just jotting down a draft, it might feel like a lot of work, and you go back to Word. [Markdown](https://www.markdownguide.org/getting-started/) comes as a saviour with very minimal writing syntax, but works like a live LaTeX document. There are different Markdown flavours available with a few variations in syntax. 
 
