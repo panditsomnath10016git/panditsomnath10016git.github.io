@@ -59,7 +59,9 @@ For getting more detailed use cases, go through the [Zotero documentation](https
 <i class="fa-solid fa-caret-right"></i> [Wikidata's Cita page](https://www.wikidata.org/wiki/Wikidata:Zotero/Cita)
 
 ### Zettlr
-While writing in MS Word, managing documents more than a few pages with figures and equations becomes frustrating. So, we go to LaTeX for peaceful writing in a text editor and are less bothered about the positions or numberings and finding symbols for equations. But in LaTeX, you need to compile the document you have written every time you want to see the final result. While just jotting down a draft, it might feel like a lot of work, and you go back to Word. [Markdown](https://www.markdownguide.org/getting-started/) comes as a saviour with very minimal writing syntax, but works like a live LaTeX document. There are different Markdown flavours available with a few variations in syntax. 
+Writing long documents in MS Word, especially when you’ve got figures and equations, can make you 😫😭! That’s why a lot of us switch to LaTeX—it makes writing way easier since you don't have to stress about formatting, numbering, or hunting for symbols for equations.
+
+But in LaTeX, you need to compile the document you have written every time you want to see the final result. While just jotting down a draft, it might feel like a lot of work, and you go back to Word. [Markdown](https://www.markdownguide.org/getting-started/) comes as a saviour with very minimal writing syntax, but works like a live LaTeX document. There are different Markdown flavours available with a few variations in syntax. 
 
 For jotting down connected topics or ideas, and also writing articles for publishing, [Zettlr](https://www.zettlr.com/) is a tool of comfort. Interestingly, whatever you write in Zettlr, you can export to PDF, Word, LaTeX, HTML, and so on. It can serve as a primary drafting station. Citations, equations, links, images, videos, tables, lists, anything at ease. This page itself is written in Zettlr.
 
@@ -108,7 +110,7 @@ Visit [Zettlr documentation page](https://docs.zettlr.com/en/) to explore the po
 Most of the time, an experiment is repeated multiple times, and the data have to be processed after every run to properly understand the results. Automating the process, or at least parts of it, makes the workflow significantly faster. For example, when I record a series of continuous spectra to observe changes in an optical mode, the experiment generates thousands of spectra stored as columns in the dataset, as shown below.
 
 ```math
-# wl	 scan1	scan2		scan3	scan4		scan5	scan6 	scan7		scan8	scan9...
+# wl    scan1	scan2	scan3	scan4	scan5	scan6 	scan7	scan8	scan9...
 420.27	0.6294	0.63077	0.68675	0.62037	0.67407	0.65529	0.68027	0.66025	0.69008...
 420.87	0.69319	0.61734	0.66561	0.71034	0.66313	0.7125	0.69145	0.67011	0.6864...
 421.46	0.67991	0.68286	0.65843	0.66553	0.64906	0.64739	0.67605	0.67591	0.68637...
@@ -121,11 +123,11 @@ Most of the time, an experiment is repeated multiple times, and the data have to
 ```
 Plotting the spectra, identifying the modes, and calculating their quality factors can be challenging without using code. The left image shows the raw data as a colormap, where the y-axis represents wavelength and the x-axis represents scan number. From this data, I want to determine the quality factors of the modes and compare the spectra with simulations to extract the actual values of a parameter along the x-axis. Doing this manually using graph-plotting software would be a nightmare — especially when I have around 20 such datasets to analyze! The image on the right shows the final processed spectra, with the modes traced and the x-axis labeled as thickness.
 
-<div class="row mt-2 mb-1">
-    <div class="col-sm-5 mt-3 mt-md-0">
+<div class="row mt-2 mb-1 justify-content-center">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/raw_data_load_python.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-7 mt-2 mb-1 mt-md-0">
+    <div class="col-sm-5 mt-2 mb-1 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/mode_tracing_python.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
