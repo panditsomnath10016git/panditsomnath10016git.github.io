@@ -16,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v7
+        uses: actions/checkout@v6
 
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # Forces your scripts to compile on a stable, supported runtime
+          node-version: '14' # Forces your scripts to compile on a stable, supported runtime
 
       - name: Install Prettier 💾
         run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
@@ -42,7 +42,7 @@ jobs:
       - name: Upload html diff ⬆️
         id: artifact-upload
         if: ${{ failure() && steps.prettier.conclusion == 'failure' }}
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v4
         with:
           name: HTML Diff
           path: diff.html
