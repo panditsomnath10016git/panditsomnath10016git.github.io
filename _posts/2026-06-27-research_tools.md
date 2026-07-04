@@ -6,7 +6,7 @@ description: A quick look at the free tools I found really useful when starting 
 tags: zotero zettlr python research cite automation coding
 categories: research
 thumbnail: assets/img/blog/blog_beginner_tools.png
-og_image: assets/img/blog/blog_beginner_tools.png
+og_image: /assets/img/blog/blog_beginner_tools.png
 giscus_comments: false
 related_posts: true
 toc:
