@@ -5,8 +5,8 @@ date: 2026-06-27 01:14:00
 description: A quick look at the free tools I found really useful when starting my PhD for managing papers, drafting, and automating data.
 tags: zotero zettlr python research cite automation coding
 categories: research
-thumbnail: assets/img/blog/blog_beginner_tools.webp
-og_image: assets/img/blog/blog_beginner_tools.webp
+thumbnail: assets/img/blog/blog_beginner_tools.png
+og_image: assets/img/blog/blog_beginner_tools.png
 giscus_comments: false
 related_posts: true
 toc:
@@ -14,6 +14,7 @@ toc:
 mermaid:
   enabled: true
 ---
+
 While getting into research, the first thing that overwhelms most is the literature survey. Initially, it might seem like it's never-ending. Each article will cite plenty of other articles to read for an overall understanding. Eventually, it can be a real struggle to keep track of what you have read and find a specific article in your mind. 
 
 Over time, you might remember keywords and images to search for the article to dig deeper into the details. [Scopus](https://www.scopus.com), [Google Scholar](https://scholar.google.com/), or just a web search is utilized for finding articles.
