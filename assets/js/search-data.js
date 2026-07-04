@@ -62,7 +62,7 @@ ninja.data = [{
         
           title: "Beginner&#39;s Tools for Research",
         
-        description: "Research tools I found useful as a beginner.",
+        description: "A quick look at the free tools I found really useful when starting my PhD for managing papers, drafting, and automating data.",
         section: "Posts",
         handler: () => {
           
