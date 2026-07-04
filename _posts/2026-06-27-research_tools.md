@@ -6,6 +6,7 @@ description: Research tools I found useful as a beginner.
 tags: zotero zettlr python research cite automation coding
 categories: research
 thumbnail: assets/img/blog/blog_beginner_tools.webp
+og_image: assets/img/blog/blog_beginner_tools.webp
 giscus_comments: false
 related_posts: true
 toc:
