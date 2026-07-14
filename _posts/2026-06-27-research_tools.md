@@ -105,7 +105,7 @@ Visit [Zettlr documentation page](https://docs.zettlr.com/en/) to explore the po
 <i class="fa-solid fa-caret-right"></i> [Basic markdown sytax](https://www.markdownguide.org/basic-syntax/)\\
 <i class="fa-solid fa-caret-right"></i> [Zettlr citations documentation](https://docs.zettlr.com/en/editor/citations/)\\
 <i class="fa-solid fa-caret-right"></i> [Zotero and Zettlr integration](https://docs.zettlr.com/en/guides/reference-manager-integration/#)\\
-<i class="fa-solid fa-caret-right"></i>[Hendrick's blog post on Zettlr](https://www.hendrik-erz.de/post/how-i-work-part-v-zettlr-and-academic-markdown)\\
+<i class="fa-solid fa-caret-right"></i> [Hendrick's blog post on Zettlr](https://www.hendrik-erz.de/post/how-i-work-part-v-zettlr-and-academic-markdown)\\
 <i class="fa-solid fa-caret-right"></i> [pandoc-crossref releases page](https://github.com/lierdakil/pandoc-crossref/releases/tag/v0.3.24a)
 
 ### Python and VS Code
@@ -183,3 +183,5 @@ Python is the interpreter, but you still need a text editor to write and run the
 <i class="fa-solid fa-caret-right"></i> [Quick Start Guide for Python in VS Code](https://code.visualstudio.com/docs/python/python-quick-start)\\
 <i class="fa-solid fa-caret-right"></i> [vscode tips and tricks](https://github.com/microsoft/vscode-tips-and-tricks)
 
+### Further Reading
+<i class="fa-solid fa-caret-right"></i> ['How to keep a lab notebook' post in science.org](https://www.science.org/content/article/how-keep-lab-notebook)
