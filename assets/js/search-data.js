@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-beginner-39-s-tools-for-research",
+            },{id: "post-setup-python-coding-workspace-with-vs-code",
+        
+          title: "Setup Python Coding Workspace with VS Code",
+        
+        description: "Installing Python, VS-Code and setting up Jupyter notebook.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/jupyter_notebook/";
+          
+        },
+      },{id: "post-beginner-39-s-tools-for-research",
         
           title: "Beginner&#39;s Tools for Research",
         
