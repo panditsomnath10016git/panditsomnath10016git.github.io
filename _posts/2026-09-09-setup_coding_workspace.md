@@ -49,7 +49,8 @@ Now that both Python and VS Code are installed, let us create our coding workspa
  ```text
  Hello World!
  ```
-#### Installing packages with pip
+
+#### Installing Packages with Pip
 Now install some packages in Python.
 - In the VS Code window press **Ctrl + `** to open the integrated terminal.
 - Check Python version by the `python -V` command. It should match the Python version you just installed.
@@ -59,7 +60,7 @@ Now install some packages in Python.
  ```
 - After installing, you can see the packages with the `pip list` command.
 
-#### Try the notebook
+#### Try the Notebook
 ```Python
 import this
 ```
