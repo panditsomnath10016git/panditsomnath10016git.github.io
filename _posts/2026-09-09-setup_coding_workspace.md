@@ -76,3 +76,5 @@ You now have a working Python + VS Code + Jupyter environment and are ready to s
 - [Python Tutorial](https://docs.python.org/3/tutorial/) — The official tutorial covering Python syntax, data structures, functions, modules, and more.
 - [Real Python – Beginner Tutorials](https://realpython.com/tutorials/basics/) — Beginner-friendly tutorials and structured learning paths with practical examples and projects.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — A practical introduction to Python through automation projects such as working with files, spreadsheets, PDFs, and web scraping. The current edition is available online for free.
+- [An Effective Python Development Environment by Martin Breuss](https://realpython.com/effective-python-environment/)
+- [https://realpython.com/learning-paths/](https://realpython.com/learning-paths/)
