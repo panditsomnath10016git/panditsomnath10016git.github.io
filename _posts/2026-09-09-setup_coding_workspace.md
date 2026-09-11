@@ -17,7 +17,9 @@ mermaid:
 
 Setting up a coding workspace with Python and VS Code is straightforward. In this guide, we will install Python, install VS Code, configure a Python environment, and run our first Python program in a Jupyter notebook.
 
-[[add video link]]
+<div class="row mt-1 mb-1 justify-content-center">
+    {% include video.liquid path="https://www.youtube.com/embed/Imds1B-wY5U?si=LxpezRTVgyHWp7xo" class="img-fluid rounded z-depth-1" %}
+</div>
 
 #### Install Python
 - Download the latest Python installer from the [official Python website](https://www.python.org/).
