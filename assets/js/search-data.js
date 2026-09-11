@@ -66,7 +66,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/jupyter_notebook/";
+            window.location.href = "/blog/2026/setup_coding_workspace/";
           
         },
       },{id: "post-beginner-39-s-tools-for-research",
