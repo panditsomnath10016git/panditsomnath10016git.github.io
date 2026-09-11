@@ -59,9 +59,6 @@ Now install some packages in Python.
 
 #### Try the notebook
 ```Python
-import hello
-```
-```Python
 import this
 ```
 ```Python
