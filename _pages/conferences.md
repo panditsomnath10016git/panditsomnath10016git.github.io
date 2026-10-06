@@ -9,6 +9,6 @@ nav_order: 3
 <!-- _pages/conference.md -->
 <div class="publications">
 
-{% bibliography -f conferences %}
+{% bibliography -f conferences --group_by year --group_order descending %}
 
 </div>
