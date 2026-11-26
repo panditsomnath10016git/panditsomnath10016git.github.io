@@ -3,7 +3,7 @@ layout: post
 title: Beginner's Tools for Research
 date: 2026-06-27 01:14:00
 description: A quick look at the free tools I found really useful when starting my PhD for managing papers, drafting, and automating data.
-tags: zotero zettlr python research cite automation coding
+tags: zotero zettlr python VS-Code research cite automation coding
 categories: research
 thumbnail: assets/img/blog/blog_beginner_tools.png
 og_image: /assets/img/blog/blog_beginner_tools.png

@@ -32,6 +32,6 @@ latest_posts:
 Welcome to my page. I am currently doing research in the field of `optics and photonics` as a Prime Minister's Research Fellow in the School of Nanoscience and Technology at IIT Kharagpur. 
 
 More than being fascinated by the underlying laws of the universe and the challenge of understanding it, the history of science and how it has shaped human civilization overwhelms me.
-I got attracted to the field of photonics during my higher studies for its potential to handle the exponential demand for computing power, its promise of new-age sensing technologies, and its opportunity to test the theories of physics itself.
+I was attracted to the field of photonics during my higher studies for its potential to handle the exponential demand for computing power, its promise of new-age sensing technologies, and its opportunity to test the theories of physics itself.
 
-My primary research focus is on developing ultrasensitive sensors based on the [photonic-crystal](https://rdcu.be/dyd5S) platform, with potential applications in healthcare, agriculture, and environmental monitoring.
+My primary research focus is on developing ultrasensitive sensors based on the [photonic-crystal](https://rdcu.be/dyd5S) platform, with potential applications in healthcare, agriculture, and environmental monitoring; working at the [nano-micro photonics lab](https://nanophotonicskgp.github.io) under [Prof. Shivakiran Bhaktha B.N](https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha) and [Prof. Prasanta Kumar Guha](https://www.iitkgp.ac.in/department/EC/faculty/ec-pkguha).
